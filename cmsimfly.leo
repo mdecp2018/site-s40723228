@@ -13,38 +13,18 @@
 <v t="amd.20160714225308.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20160714225308.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180702145534.1"><vh>wsgi start/stop</vh>
+<v t="leo.20180702145534.1" a="E"><vh>wsgi start/stop</vh>
 <v t="leo.20180702142719.1"><vh>@button start wsgi</vh></v>
 <v t="leo.20180702142849.1"><vh>@button stop wsgi</vh></v>
 </v>
-<v t="leo.20180702145555.1"><vh>http start/stop</vh>
+<v t="leo.20180702145555.1" a="E"><vh>http start/stop</vh>
 <v t="leo.20180702145442.1"><vh>@button start http.server</vh></v>
 <v t="leo.20180702145458.1"><vh>@button stop http.server</vh></v>
 </v>
 <v t="leo.20180703102027.1"><vh>@edit README.md</vh></v>
-<v t="amd.20160714225245.2"><vh>about cmsimfly</vh>
+<v t="amd.20160714225245.2" a="E"><vh>about cmsimfly</vh>
 <v t="amd.20160714230137.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20160714230155.1"><vh>@edit LICENSE</vh></v>
-<v t="amd.20160715000709.1"><vh>註解</vh>
-<v t="amd.20160715211540.1"><vh>處理 url 與 edit</vh></v>
-<v t="amd.20160715213810.1"><vh>必須處理 downloads 與 images 目錄</vh></v>
-<v t="leo.20180625155103.1"><vh>改為 pybean based</vh>
-<v t="leo.20180625155310.1"><vh>資料庫設計</vh></v>
-</v>
-<v t="leo.20180630135634.1"><vh>新增 generate_pages 功能</vh>
-<v t="leo.20180630211407.1"><vh>必須修改頁面內容</vh></v>
-<v t="leo.20180712144340.1"><vh>改回手動轉靜態網頁</vh></v>
-</v>
-</v>
-<v t="leo.20180701102916.1"><vh>2018Summer 改版</vh>
-<v t="leo.20180702104314.1"><vh>整合設定檔案</vh></v>
-<v t="leo.20180701205822.1"><vh>editorhead 修改</vh></v>
-<v t="leo.20180701212101.1"><vh>有關 Cango library</vh></v>
-<v t="leo.20180726212905.1"><vh>存檔時移除所有 tag of title</vh></v>
-<v t="leo.20180728154823.1"><vh>利用 flake8 查驗格式</vh></v>
-</v>
-<v t="amd.20160718002238.1"><vh>參考資料</vh></v>
-<v t="amd.20160717220157.1"><vh>Flask 開講</vh></v>
 </v>
 <v t="leo.20180701102750.1"><vh>@edit index.html</vh></v>
 <v t="amd.20160714225914.1"><vh>@edit setup.py</vh></v>
@@ -60,76 +40,74 @@
 <v t="amd.20160718125943.1"><vh>@edit stlviewer.js</vh></v>
 <v t="amd.20160718212341.1"><vh>@edit jsc3d.js</vh></v>
 </v>
-<v t="amd.20160714230058.1"><vh>@clean wsgi.py</vh>
+<v t="amd.20160714230058.1" a="E"><vh>@clean wsgi.py</vh>
 <v t="amd.20160714230122.1"><vh>wsgi declarations</vh></v>
 </v>
 <v t="amd.20160714230833.1" a="E"><vh>編輯 flaskapp.py</vh>
-<v t="leo.20181015140332.1"><vh>@clean flaskapp.py</vh>
-<v t="leo.20181015140531.1"><vh>Declarations  </vh></v>
-<v t="leo.20181015140531.2"><vh>checkLogin  </vh></v>
-<v t="leo.20181015140531.3"><vh>delete_file  </vh></v>
-<v t="leo.20181015140531.4"><vh>doDelete  </vh></v>
-<v t="leo.20181015140531.5"><vh>doSearch  </vh></v>
-<v t="leo.20181015140531.6"><vh>download  </vh></v>
-<v t="leo.20181015140531.7"><vh>download_list  </vh></v>
-<v t="leo.20181015140531.8"><vh>downloadlist_access_list  </vh></v>
-<v t="leo.20181015140531.9"><vh>downloads  </vh></v>
-<v t="leo.20181015140531.10"><vh>downloadselect_access_list  </vh></v>
-<v t="leo.20181015140531.11"><vh>edit_config  </vh></v>
-<v t="leo.20181015140531.12"><vh>edit_page  </vh></v>
-<v t="leo.20181015140531.13"><vh>editorfoot  </vh></v>
-<v t="leo.20181015140531.14"><vh>editorhead  </vh></v>
-<v t="leo.20181015140531.15"><vh>error_log  </vh></v>
-<v t="leo.20181015140531.16"><vh>file_get_contents  </vh></v>
-<v t="leo.20181015140531.17"><vh>file_lister  </vh></v>
-<v t="leo.20181015140532.1"><vh>file_selector  </vh></v>
-<v t="leo.20181015140532.2"><vh>file_selector_script  </vh></v>
-<v t="leo.20181015140532.3"><vh>fileaxupload  </vh></v>
-<v t="leo.20181015140532.4"><vh>fileuploadform  </vh></v>
-<v t="leo.20181015140532.5"><vh>flvplayer  </vh></v>
-<v t="leo.20181015140532.6"><vh>generate_pages  </vh></v>
-<v t="leo.20181015140532.7"><vh>get_page  </vh></v>
-<v t="leo.20181015140532.8"><vh>get_page2  </vh></v>
-<v t="leo.20181015140532.9"><vh>image_delete_file  </vh></v>
-<v t="leo.20181015140532.10"><vh>image_doDelete  </vh></v>
-<v t="leo.20181015140532.11"><vh>image_list  </vh></v>
-<v t="leo.20181015140532.12"><vh>imageaxupload  </vh></v>
-<v t="leo.20181015140532.13"><vh>imagelist_access_list  </vh></v>
-<v t="leo.20181015140532.14"><vh>imageselect_access_list  </vh></v>
-<v t="leo.20181015140532.15"><vh>imageuploadform  </vh></v>
-<v t="leo.20181015140532.16"><vh>index  </vh></v>
-<v t="leo.20181015140532.17"><vh>isAdmin  </vh></v>
-<v t="leo.20181015140532.18"><vh>listdir  </vh></v>
-<v t="leo.20181015140532.19"><vh>load_list  </vh></v>
-<v t="leo.20181015140532.20"><vh>loadlist_access_list  </vh></v>
-<v t="leo.20181015140532.21"><vh>login  </vh></v>
-<v t="leo.20181015140532.22"><vh>logout  </vh></v>
-<v t="leo.20181015140532.23"><vh>parse_config  </vh></v>
-<v t="leo.20181015140532.24"><vh>_remove_h123_attrs  </vh></v>
-<v t="leo.20181015140532.25"><vh>good_parse_content  </vh></v>
-<v t="leo.20181015140532.26"><vh>bad_parse_content  </vh></v>
-<v t="leo.20181015140532.27"><vh>parse_content  </vh></v>
-<v t="leo.20181015140532.28"><vh>render_menu  </vh></v>
-<v t="leo.20181015140532.29"><vh>render_menu2  </vh></v>
-<v t="leo.20181015140532.30"><vh>saveConfig  </vh></v>
-<v t="leo.20181015140532.31"><vh>savePage  </vh></v>
-<v t="leo.20181015140532.32"><vh>search_content  </vh></v>
-<v t="leo.20181015140532.33"><vh>search_form  </vh></v>
-<v t="leo.20181015140532.34"><vh>send_file  </vh></v>
-<v t="leo.20181015140532.35"><vh>send_images  </vh></v>
-<v t="leo.20181015140532.36"><vh>send_static  </vh></v>
-<v t="leo.20181015140532.37"><vh>set_admin_css  </vh></v>
-<v t="leo.20181015140532.38"><vh>set_css  </vh></v>
-<v t="leo.20181015140532.39"><vh>set_css2  </vh></v>
-<v t="leo.20181015140532.40"><vh>set_footer  </vh></v>
-<v t="leo.20181015140532.41"><vh>sitemap  </vh></v>
-<v t="leo.20181015140532.42"><vh>sitemap2  </vh></v>
-<v t="leo.20181015140532.43"><vh>sizeof_fmt  </vh></v>
-<v t="leo.20181015140532.44"><vh>ssavePage  </vh></v>
-<v t="leo.20181015140532.45"><vh>syntaxhighlight  </vh></v>
-<v t="leo.20181015140532.46"><vh>syntaxhighlight2  </vh></v>
-<v t="leo.20181015140532.47"><vh>tinymce_editor  </vh></v>
-<v t="leo.20181015140532.48"><vh>unique  </vh></v>
+<v t="leo.20181104192450.1" a="E"><vh>@clean flaskapp.py</vh>
+<v t="leo.20181104192502.1"><vh>Declarations </vh></v>
+<v t="leo.20181104192502.2"><vh>checkLogin </vh></v>
+<v t="leo.20181104192502.3"><vh>delete_file </vh></v>
+<v t="leo.20181104192502.4"><vh>doDelete </vh></v>
+<v t="leo.20181104192502.5"><vh>doSearch </vh></v>
+<v t="leo.20181104192502.6"><vh>download </vh></v>
+<v t="leo.20181104192502.7"><vh>download_list </vh></v>
+<v t="leo.20181104192502.8"><vh>downloadlist_access_list </vh></v>
+<v t="leo.20181104192502.9"><vh>downloads </vh></v>
+<v t="leo.20181104192502.10"><vh>downloadselect_access_list </vh></v>
+<v t="leo.20181104192502.11"><vh>edit_config </vh></v>
+<v t="leo.20181104192502.12"><vh>edit_page </vh></v>
+<v t="leo.20181104192502.13"><vh>editorfoot </vh></v>
+<v t="leo.20181104192502.14"><vh>editorhead </vh></v>
+<v t="leo.20181104192502.15"><vh>error_log </vh></v>
+<v t="leo.20181104192502.16"><vh>file_get_contents </vh></v>
+<v t="leo.20181104192502.17"><vh>file_lister </vh></v>
+<v t="leo.20181104192502.18"><vh>file_selector </vh></v>
+<v t="leo.20181104192502.19"><vh>file_selector_script </vh></v>
+<v t="leo.20181104192502.20"><vh>fileaxupload </vh></v>
+<v t="leo.20181104192502.21"><vh>fileuploadform </vh></v>
+<v t="leo.20181104192502.22"><vh>flvplayer </vh></v>
+<v t="leo.20181104192502.23"><vh>generate_pages </vh></v>
+<v t="leo.20181104192502.24"><vh>get_page </vh></v>
+<v t="leo.20181104192502.25"><vh>get_page2 </vh></v>
+<v t="leo.20181104192502.26"><vh>image_delete_file </vh></v>
+<v t="leo.20181104192502.27"><vh>image_doDelete </vh></v>
+<v t="leo.20181104192502.28"><vh>image_list </vh></v>
+<v t="leo.20181104192502.29"><vh>imageaxupload </vh></v>
+<v t="leo.20181104192502.30"><vh>imagelist_access_list </vh></v>
+<v t="leo.20181104192502.31"><vh>imageselect_access_list </vh></v>
+<v t="leo.20181104192502.32"><vh>imageuploadform </vh></v>
+<v t="leo.20181104192502.33"><vh>index </vh></v>
+<v t="leo.20181104192502.34"><vh>isAdmin </vh></v>
+<v t="leo.20181104192502.35"><vh>listdir </vh></v>
+<v t="leo.20181104192502.36"><vh>load_list </vh></v>
+<v t="leo.20181104192502.37"><vh>loadlist_access_list </vh></v>
+<v t="leo.20181104192502.38"><vh>login </vh></v>
+<v t="leo.20181104192502.39"><vh>logout </vh></v>
+<v t="leo.20181104192502.40"><vh>parse_config </vh></v>
+<v t="leo.20181104192502.41"><vh>_remove_h123_attrs </vh></v>
+<v t="leo.20181104192502.42"><vh>parse_content </vh></v>
+<v t="leo.20181104192502.43"><vh>render_menu </vh></v>
+<v t="leo.20181104192502.44"><vh>render_menu2 </vh></v>
+<v t="leo.20181104192502.45"><vh>saveConfig </vh></v>
+<v t="leo.20181104192502.46"><vh>savePage </vh></v>
+<v t="leo.20181104192502.47"><vh>search_content </vh></v>
+<v t="leo.20181104192502.48"><vh>search_form </vh></v>
+<v t="leo.20181104192502.49"><vh>send_file </vh></v>
+<v t="leo.20181104192502.50"><vh>send_images </vh></v>
+<v t="leo.20181104192502.51"><vh>send_static </vh></v>
+<v t="leo.20181104192502.52"><vh>set_admin_css </vh></v>
+<v t="leo.20181104192502.53"><vh>set_css </vh></v>
+<v t="leo.20181104192502.54"><vh>set_css2 </vh></v>
+<v t="leo.20181104192502.55"><vh>set_footer </vh></v>
+<v t="leo.20181104192502.56"><vh>sitemap </vh></v>
+<v t="leo.20181104192502.57"><vh>sitemap2 </vh></v>
+<v t="leo.20181104192502.58"><vh>sizeof_fmt </vh></v>
+<v t="leo.20181104192502.59"><vh>ssavePage </vh></v>
+<v t="leo.20181104192502.60"><vh>syntaxhighlight </vh></v>
+<v t="leo.20181104192502.61"><vh>syntaxhighlight2 </vh></v>
+<v t="leo.20181104192502.62"><vh>tinymce_editor </vh></v>
+<v t="leo.20181104192502.63"><vh>unique </vh></v>
 </v>
 </v>
 </vnodes>
@@ -257,315 +235,7 @@ else:
     )
 </t>
 <t tx="amd.20160714230833.1"></t>
-<t tx="amd.20160715000709.1">return redirect(url_for('edit_page')) 這裡的 edit_page 指函式方法
-
-但是若 return redirect("/edit_page') 則必須指向 url
-
-初步完成, 接下來讓 Flask 版本可以正常運作...</t>
-<t tx="amd.20160715211540.1">@app.route('/sitemap', defaults={'edit':1})
-@app.route('/sitemap/&lt;path:edit&gt;')
-def sitemap(edit):
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-    sitemap = render_menu(head, level, page, sitemap=1)
-    return set_css()+"&lt;div class='container'&gt;&lt;nav&gt;"+ \
-    directory+"&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Site Map&lt;/h1&gt;"+sitemap+"&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
-    
-因為 edit=1 針對各頁面標題, 可以從 view mode 轉為 edit mode, 但是使用者也可以在選擇其他功能後, 按下 edit, 這時就必須設法讓各函式可以正常運作
-
-主要關鍵在無 edit 時, 採用內定值, 而隨後無論有幾層 url 變數, 都包含在 path 變數中</t>
-<t tx="amd.20160715213810.1"></t>
-<t tx="amd.20160717220157.1">get 方法
-
-@app.route('/file_selector', methods=['GET'])
-def file_selector():
-    if not isAdmin():
-        return redirect("/login")
-    else:
-        type = request.args.get('type')
-        page = request.args.get('page', 1)
-        item_per_page = request.args.get('item_per_page', 10)
-        keyword = request.args.get('keyword')
-        if type == "file":
-            type = 'downloads'
-            return file_lister(download_dir, type, page, item_per_page)
-        elif type == "image":
-            return file_lister(image_dir, type, page, item_per_page)
-            
-post 方法
-
-@app.route('/saveConfig', methods=['POST'])
-def saveConfig():
-    if not isAdmin():
-        return redirect("/login")
-    site_title = request.form['site_title']
-    password = request.form['password']
-    password2 = request.form['password2']
-    if site_title == None or password == None:
-        return error_log("no content to save!")
-    old_site_title, old_password = parse_config()
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-    if site_title == None or password == None or password2 != old_password or password == '':
-        return set_css()+"&lt;div class='container'&gt;&lt;nav&gt;"+ \
-        directory+"&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Error!&lt;/h1&gt;&lt;a href='/'&gt;Home&lt;/a&gt;&lt;/body&gt;&lt;/html&gt;"
-    else:
-        if password == password2 and password == old_password:
-            hashed_password = old_password
-        else:
-            hashed_password = hashlib.sha512(password.encode('utf-8')).hexdigest()
-        file = open(config_dir+"config", "w", encoding="utf-8")
-        file.write("siteTitle:"+site_title+"\npassword:"+hashed_password)
-        file.close()
-        return set_css()+"&lt;div class='container'&gt;&lt;nav&gt;"+ \
-        directory+"&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;config file saved&lt;/h1&gt;&lt;a href='/'&gt;Home&lt;/a&gt;&lt;/body&gt;&lt;/html&gt;"
-
-flask 特殊的 URL 傳值
-
-@app.route('/get_page')
-@app.route('/get_page/&lt;heading&gt;', defaults={'edit': 0})
-@app.route('/get_page/&lt;heading&gt;/&lt;int:edit&gt;')
-def get_page(heading, edit):
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-    if heading == None:
-        heading = head[0]
-    # 因為同一 heading 可能有多頁, 因此不可使用 head.index(heading) 搜尋 page_order
-    page_order_list, page_content_list = search_content(head, page, heading)
-    return_content = ""
-    pagedata = ""
-    outstring = ""
-    outstring_duplicate = ""
-    pagedata_duplicate = ""
-    outstring_list = []
-    for i in range(len(page_order_list)):
-        #page_order = head.index(heading)
-        page_order = page_order_list[i]
-        if page_order == 0:
-            last_page = ""
-        else:
-            last_page = head[page_order-1]+" &lt;&lt; &lt;a href='/get_page/"+head[page_order-1]+"'&gt;Previous&lt;/a&gt;"
-        if page_order == len(head) - 1:
-            # no next page
-            next_page = ""
-        else:
-            next_page = "&lt;a href='/get_page/"+head[page_order+1]+"'&gt;Next&lt;/a&gt; &gt;&gt; "+ head[page_order+1]
-        if len(page_order_list) &gt; 1:
-            return_content += last_page+" "+next_page+"&lt;br /&gt;&lt;h1&gt;"+heading+"&lt;/h1&gt;"+page_content_list[i]+"&lt;br /&gt;"+last_page+" "+next_page+"&lt;br /&gt;&lt;hr&gt;"
-            pagedata_duplicate = "&lt;h"+level[page_order]+"&gt;"+heading+"&lt;/h"+level[page_order]+"&gt;"+page_content_list[i]
-            outstring_list.append(last_page+" "+next_page+"&lt;br /&gt;"+ tinymce_editor(directory, cgi.escape(pagedata_duplicate), page_order))
-        else:
-            return_content += last_page+" "+next_page+"&lt;br /&gt;&lt;h1&gt;"+heading+"&lt;/h1&gt;"+page_content_list[i]+"&lt;br /&gt;"+last_page+" "+next_page
-            
-        pagedata += "&lt;h"+level[page_order]+"&gt;"+heading+"&lt;/h"+level[page_order]+"&gt;"+page_content_list[i]
-        outstring += last_page+" "+next_page+"&lt;br /&gt;"+ tinymce_editor(directory, cgi.escape(pagedata), page_order)
-    
-    # edit=0 for viewpage
-    if edit == 0:
-        return set_css()+"&lt;div class='container'&gt;&lt;nav&gt;"+ \
-        directory+"&lt;/nav&gt;&lt;section&gt;"+return_content+"&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
-    # enter edit mode
-    else:
-        # check if administrator
-        if not isAdmin():
-            redirect(url_for('login'))
-        else:
-            if len(page_order_list) &gt; 1:
-                # 若碰到重複頁面頁印, 且要求編輯, 則導向 edit_page
-                #return redirect("/edit_page")
-                for i in range(len(page_order_list)):
-                    outstring_duplicate += outstring_list[i]+"&lt;br /&gt;&lt;hr&gt;"
-                return outstring_duplicate
-            else:
-            #pagedata = "&lt;h"+level[page_order]+"&gt;"+heading+"&lt;/h"+level[page_order]+"&gt;"+search_content(head, page, heading)
-            #outstring = last_page+" "+next_page+"&lt;br /&gt;"+ tinymce_editor(directory, cgi.escape(pagedata), page_order)
-                return outstring</t>
 <t tx="amd.20160717222221.1"></t>
-<t tx="amd.20160718002238.1">有關內容解碼
-
-http://stackoverflow.com/questions/12247681/tinymce-is-adding-nbsp-instead-of-the-space-when-using-the-word-paste
-
-現在標題中有空白時會使用 + 但是正確的編碼應該是 %20</t>
-<t tx="leo.20180625155103.1">2018.06.25 啟動
-
-使用 SQLite 資料庫儲存檔案, 而且可以轉為純 html 文件
-
-2018.07.25 暫時關掉 pybean
-
-</t>
-<t tx="leo.20180625155310.1">CMSimfly 所需欄位
-
-id - 好像是 pybean 對應資料庫必須有的 index 欄位
-follow - default 為 0 表示為 level1, 其餘按照 follow 順利遞迴列出, 理論上可以無限階
-title - 文章標題
-content - 文章內容
-memo - 額外註解欄位
-
-</t>
-<t tx="leo.20180630135634.1">可以將 CMSimfly 轉為 html pages 
-其中以 index.html 為起始點
-結合 downloads, images, static 與 content 目錄中的子頁面, 可以放入 Github Pages 或 Fossil SCM doc 目錄中, 成為靜態網站內容.
-
-</t>
-<t tx="leo.20180630211407.1">圖片的連結必須改為靜態模式, 而非目前的動態模式
-
-整體依附在 OpenShift 的部分必須刪除?
-
-可能在 generate_pages  時針對 downloads 與 images 目錄中的引用,  將動態格式轉為靜態格式</t>
-<t tx="leo.20180701102916.1">去除 OpenShift 相關程式碼
-
-增加轉為靜態網頁格式功能
-
-整體目錄架構修改
-
-static 目錄存放各種 css 設定與 Javascript 檔案
-
-downloads 目錄存放使用者在動態模式下上傳的文件檔
-
-images 目錄存放使用者在動態模式下上傳的影像檔
-
-content 目錄存放靜態 html 檔案
-
-config 目錄存放 config 設定檔案與 content.htm - 使用者若在區域網路中執行, 可以將 config 檔案設定到其他目錄中存放, 目錄是可不將 config 檔案新增提交到版本系統
-
-wsgi.py 與其他 Flask based 程式碼
-
-index.html 在純 WWW 模式下 redirect 到 content/index.html
-
-靜態網頁引用 static, downloads, images 目錄內容時, 以相對目錄指定 (./../)
-
-CMSimfly 之後將可以在動態或靜態模式下執行運作</t>
-<t tx="leo.20180701205822.1">原來設定
-
-def editorhead():
-    return '''
-    &lt;br /&gt;
-&lt;script src="//cdn.tinymce.com/4/tinymce.min.js"&gt;&lt;/script&gt;
-&lt;script src="/static/tinymce4/tinymce/plugins/sh4tinymce/plugin.min.js"&gt;&lt;/script&gt;
-&lt;link rel = "stylesheet" href = "/static/tinymce4/tinymce/plugins/sh4tinymce/style/style.css"&gt;
-&lt;script&gt;
-tinymce.init({
-  selector: "textarea",
-  height: 500,
-  element_format : "xhtml",
-  language : "en",
-  plugins: [
-    'advlist autolink lists link image charmap print preview hr anchor pagebreak',
-    'searchreplace wordcount visualblocks visualchars code fullscreen',
-    'insertdatetime media nonbreaking save table contextmenu directionality',
-    'emoticons template paste textcolor colorpicker textpattern imagetools sh4tinymce'
-  ],
-  toolbar1: 'insertfile save undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent',
-  toolbar2: 'link image | print preview media | forecolor backcolor emoticons | code sh4tinymce',
-  relative_urls: false,
-  toolbar_items_size: 'small',
-  file_picker_callback: function(callback, value, meta) {
-        cmsFilePicker(callback, value, meta);
-    },
-  templates: [
-    { title: 'Test template 1', content: 'Test 1' },
-    { title: 'Test template 2', content: 'Test 2' }
-  ],
-  content_css: [
-    '//fonts.googleapis.com/css?family=Lato:300,300i,400,400i',
-    '//www.tinymce.com/css/codepen.min.css'
-  ]
-});
-
-function cmsFilePicker(callback, value, meta) {
-    tinymce.activeEditor.windowManager.open({
-        title: 'Uploaded File Browser',
-        url: '/file_selector?type=' + meta.filetype,
-        width: 800,
-        height: 550,
-    }, {
-        oninsert: function (url, objVals) {
-            callback(url, objVals);
-        }
-    });
-};
-&lt;/script&gt;
-'''
-
-
-修改後
-
-def editorhead():
-    return '''
-    &lt;br /&gt;
-&lt;script src="//cdn.tinymce.com/4/tinymce.min.js"&gt;&lt;/script&gt;
-&lt;script src="/static/tinymce4/tinymce/plugins/sh4tinymce/plugin.min.js"&gt;&lt;/script&gt;
-&lt;link rel = "stylesheet" href = "/static/tinymce4/tinymce/plugins/sh4tinymce/style/style.css"&gt;
-&lt;script&gt;
-tinymce.init({
-  selector: "textarea",
-  height: 500,
-  element_format : "html",
-  language : "en",
-  valid_elements : '*[*]',
-  extended_valid_elements: "script[language|type|src]",
-  plugins: [
-    'advlist autolink lists link image charmap print preview hr anchor pagebreak',
-    'searchreplace wordcount visualblocks visualchars code fullscreen',
-    'insertdatetime media nonbreaking save table contextmenu directionality',
-    'emoticons template paste textcolor colorpicker textpattern imagetools sh4tinymce'
-  ],
-  toolbar1: 'insertfile save undo redo | styleselect | bold italic | alignleft aligncenter alignright alignjustify | bullist numlist outdent indent',
-  toolbar2: 'link image | print preview media | forecolor backcolor emoticons | code sh4tinymce',
-  relative_urls: false,
-  toolbar_items_size: 'small',
-  file_picker_callback: function(callback, value, meta) {
-        cmsFilePicker(callback, value, meta);
-    },
-  templates: [
-    { title: 'Test template 1', content: 'Test 1' },
-    { title: 'Test template 2', content: 'Test 2' }
-  ],
-  content_css: [
-    '//fonts.googleapis.com/css?family=Lato:300,300i,400,400i',
-    '//www.tinymce.com/css/codepen.min.css'
-  ]
-});
-
-function cmsFilePicker(callback, value, meta) {
-    tinymce.activeEditor.windowManager.open({
-        title: 'Uploaded File Browser',
-        url: '/file_selector?type=' + meta.filetype,
-        width: 800,
-        height: 550,
-    }, {
-        oninsert: function (url, objVals) {
-            callback(url, objVals);
-        }
-    });
-};
-&lt;/script&gt;
-'''
-
-
-</t>
-<t tx="leo.20180701212101.1">&lt;script type="text/javascript" src="/static/Cango-13v08-min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="/static/CangoAxes-4v01-min.js"&gt;&lt;/script&gt;
-&lt;script type="text/javascript" src="/static/gearUtils-05.js"&gt;&lt;/script&gt;
-
-必須直接放在 syntaxhighlight 與 syntaxhighlight2 中, 因為若直接放入各頁面, 會導致只有動態系統可以正常運作, 而靜態頁面無法擷取, 因為動態採絕對目錄取 static 內容, 而靜態頁面則必須採相對目錄擷取.
-
-</t>
-<t tx="leo.20180702104314.1">目前以 uwsgi 設定判斷是在一般模式執行 (python wsgi.py) 或 uwsgi 模式執行 (http://lab.kmol.info/blog/cmsimfly-and-fossil-on-same-machine.html)
-
-uwsgi = False
-
-則在一般模式下執行
-
-uwsgi = True
-
-則在 uwsgi 模式下執行
-
-原始的 uwsgi 設定在 init.py 中的 Init 類別中, 設為 class variable, 也就是所謂的 static variable
-
-然後 flaskapp.py 導入 init.py 後, 將 uwsgi 變數設為 init.Init.uwsgi
-
-最後 wsgi.py 又導入 flaskapp.py, 再將其內的 uwsgi 設為 flaskapp.uwsgi, 就可以輾轉取出  init.py 中的設定</t>
 <t tx="leo.20180702142719.1">@language python
 bpm = g.app.backgroundProcessManager
 bpm.start_process(c, command='python wsgi.py', kind='wsgi', shell=True)
@@ -590,21 +260,14 @@ bpm.kill(kind="http")
 </t>
 <t tx="leo.20180702145534.1"></t>
 <t tx="leo.20180702145555.1"></t>
-<t tx="leo.20180712144340.1">因為每次 generate_pages 必須將 content 目錄中的所有檔案刪除後, 再從 content.htm 轉為靜態網頁, 因此從負擔較重的每次存檔都自動轉檔, 改回必要時再以手動呼叫 generate_pages 進行轉檔.</t>
-<t tx="leo.20180726212905.1">存檔時移除所有 tag of title
-
-這是一個 bug, 目前若 title 有 tag, 則無法透過 get_page 辨識, 因此必須在存檔前移除所有 tags
-
-bug 180726</t>
-<t tx="leo.20180728154823.1">將程式碼逐一修改為 flake8 查驗無誤</t>
-<t tx="leo.20181015140332.1"># coding: utf-8
+<t tx="leo.20181104192450.1"># coding: utf-8
 @others
 if __name__ == "__main__":
     app.run()
 @language python
 @tabwidth -4
 </t>
-<t tx="leo.20181015140531.1">from flask import Flask, send_from_directory, request, redirect, \
+<t tx="leo.20181104192502.1">from flask import Flask, send_from_directory, request, redirect, \
     render_template, session, make_response, url_for, flash
 import random
 import math
@@ -625,7 +288,11 @@ import urllib.parse
 import cgi
 import sys
 # for new parse_content function
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
+# 為了使用 bs4.element, 改為 import bs4
+import bs4
+# for ssavePage and savePage
+import shutil
 
 # get the current directory of the file
 _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
@@ -671,7 +338,7 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
-<t tx="leo.20181015140531.10">def downloadselect_access_list(files, starti, endi):
+<t tx="leo.20181104192502.10">def downloadselect_access_list(files, starti, endi):
     """Accompanied with file_selector."""
     outstring = ""
     for index in range(int(starti)-1, int(endi)):
@@ -685,7 +352,7 @@ app.secret_key = 'A0Zr9@8j/3yX R~XHH!jmN]LWX/,?R@T'
 
 
 </t>
-<t tx="leo.20181015140531.11">@app.route('/edit_config', defaults={'edit': 1})
+<t tx="leo.20181104192502.11">@app.route('/edit_config', defaults={'edit': 1})
 @app.route('/edit_config/&lt;path:edit&gt;')
 def edit_config(edit):
     """Config edit html form."""
@@ -711,7 +378,7 @@ def edit_config(edit):
 
 # edit all page content
 </t>
-<t tx="leo.20181015140531.12">@app.route('/edit_page', defaults={'edit': 1})
+<t tx="leo.20181104192502.12">@app.route('/edit_page', defaults={'edit': 1})
 @app.route('/edit_page/&lt;path:edit&gt;')
 def edit_page(edit):
     """Page edit html form."""
@@ -727,12 +394,12 @@ def edit_page(edit):
 
 
 </t>
-<t tx="leo.20181015140531.13">def editorfoot():
+<t tx="leo.20181104192502.13">def editorfoot():
     return '''&lt;body&gt;'''
 
 
 </t>
-<t tx="leo.20181015140531.14">def editorhead():
+<t tx="leo.20181104192502.14">def editorhead():
     return '''
     &lt;br /&gt;
 &lt;!--&lt;script src="//cdn.tinymce.com/4/tinymce.min.js"&gt;&lt;/script&gt;--&gt;
@@ -787,7 +454,7 @@ function cmsFilePicker(callback, value, meta) {
 
 
 </t>
-<t tx="leo.20181015140531.15">@app.route('/error_log')
+<t tx="leo.20181104192502.15">@app.route('/error_log')
 def error_log(self, info="Error"):
     head, level, page = parse_content()
     directory = render_menu(head, level, page)
@@ -796,7 +463,7 @@ def error_log(self, info="Error"):
 
 
 </t>
-<t tx="leo.20181015140531.16">def file_get_contents(filename):
+<t tx="leo.20181104192502.16">def file_get_contents(filename):
     # open file in utf-8 and return file content
     with open(filename, encoding="utf-8") as file:
         return file.read()
@@ -804,7 +471,7 @@ def error_log(self, info="Error"):
 
 # 與 file_selector 配合, 用於 Tinymce4 編輯器的檔案選擇
 </t>
-<t tx="leo.20181015140531.17">def file_lister(directory, type=None, page=1, item_per_page=10):
+<t tx="leo.20181104192502.17">def file_lister(directory, type=None, page=1, item_per_page=10):
     files = os.listdir(directory)
     total_rows = len(files)
     totalpage = math.ceil(total_rows/int(item_per_page))
@@ -919,293 +586,7 @@ def error_log(self, info="Error"):
 
 # 配合 Tinymce4 讓使用者透過 html editor 引用所上傳的 files 與 images
 </t>
-<t tx="leo.20181015140531.2">@app.route('/checkLogin', methods=['POST'])
-def checkLogin():
-    """Check user login process."""
-    password = request.form["password"]
-    site_title, saved_password = parse_config()
-    hashed_password = hashlib.sha512(password.encode('utf-8')).hexdigest()
-    if hashed_password == saved_password:
-        session['admin'] = 1
-        return redirect('/edit_page')
-    return redirect('/')
-
- 
-</t>
-<t tx="leo.20181015140531.3">@app.route('/delete_file', methods=['POST'])
-def delete_file():
-    """Delete user uploaded files."""
-    if not isAdmin():
-        return redirect("/login")
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-    filename = request.form['filename']
-    if filename is None:
-        outstring = "no file selected!"
-        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-                   directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Delete Error&lt;/h1&gt;" + \
-                   outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
-    outstring = "delete all these files?&lt;br /&gt;&lt;br /&gt;"
-    outstring += "&lt;form method='post' action='doDelete'&gt;"
-    # only one file is selected
-    if isinstance(filename, str):
-        outstring += filename + "&lt;input type='hidden' name='filename' value='" + \
-                            filename + "'&gt;&lt;br /&gt;"
-    else:
-        # multiple files selected
-        for index in range(len(filename)):
-            outstring += filename[index] + "&lt;input type='hidden' name='filename' value='" + \
-                                filename[index]+"'&gt;&lt;br /&gt;"
-    outstring += "&lt;br /&gt;&lt;input type='submit' value='delete'&gt;&lt;/form&gt;"
-
-    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-               directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + \
-               outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
-
-
-</t>
-<t tx="leo.20181015140531.4">@app.route('/doDelete', methods=['POST'])
-def doDelete():
-    """Action to delete user uploaded files."""
-    if not isAdmin():
-        return redirect("/login")
-    # delete files
-    filename = request.form['filename']
-    outstring = "all these files will be deleted:&lt;br /&gt;&lt;br /&gt;"
-    # only select one file
-    if isinstance(filename, str):
-        try:
-            os.remove(download_dir + "/" + filename)
-            outstring += filename + " deleted!"
-        except:
-            outstring += filename + "Error, can not delete files!&lt;br /&gt;"
-    else:
-        # multiple files selected
-        for index in range(len(filename)):
-            try:
-                os.remove(download_dir + "/" + filename[index])
-                outstring += filename[index] + " deleted!&lt;br /&gt;"
-            except:
-                outstring += filename[index] + "Error, can not delete files!&lt;br /&gt;"
-
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-
-    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-               directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + \
-               outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
-
-
-</t>
-<t tx="leo.20181015140531.5">@app.route('/doSearch', methods=['POST'])
-def doSearch():
-    """Action to search content.htm using keyword"""
-    if not isAdmin():
-        return redirect("/login")
-    else:
-        keyword = request.form['keyword']
-        head, level, page = parse_content()
-        directory = render_menu(head, level, page)
-        match = ""
-        for index in range(len(head)):
-            if (keyword != "" or None) and (keyword.lower() in page[index].lower() or \
-            keyword.lower() in head[index].lower()): \
-                match += "&lt;a href='/get_page/" + head[index] + "'&gt;" + \
-                                head[index] + "&lt;/a&gt;&lt;br /&gt;"
-        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;"+ \
-                   directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Search Result&lt;/h1&gt;keyword: " + \
-                   keyword.lower() + "&lt;br /&gt;&lt;br /&gt;in the following pages:&lt;br /&gt;&lt;br /&gt;" + \
-                   match + "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
-
-
-</t>
-<t tx="leo.20181015140531.6">@app.route('/download/', methods=['GET'])
-def download():
-    """Download file using URL."""
-    filename = request.args.get('filename')
-    type = request.args.get('type')
-    if type == "files":
-        return send_from_directory(download_dir, filename=filename)
-    else:
-    # for image files
-        return send_from_directory(image_dir, filename=filename)
-    
-
-</t>
-<t tx="leo.20181015140531.7">@app.route('/download_list', methods=['GET'])
-def download_list():
-    """List files in downloads directory."""
-    if not isAdmin():
-        return redirect("/login")
-    else:
-        if not request.args.get('edit'):
-            edit= 1
-        else:
-            edit = request.args.get('edit')
-        if not request.args.get('page'):
-            page = 1
-        else:
-            page = request.args.get('page')
-        if not request.args.get('item_per_page'):
-            item_per_page = 10
-        else:
-            item_per_page = request.args.get('item_per_page')
-        if not request.args.get('keyword'):
-            keyword = ""
-        else:
-            keyword = request.args.get('keyword')
-            session['download_keyword'] = keyword
-    files = os.listdir(download_dir)
-    if keyword is not "":
-        files = [elem for elem in files if str(keyword) in elem]
-    files.sort()
-    total_rows = len(files)
-    totalpage = math.ceil(total_rows/int(item_per_page))
-    starti = int(item_per_page) * (int(page) - 1) + 1
-    endi = starti + int(item_per_page) - 1
-    outstring = "&lt;form method='post' action='delete_file'&gt;"
-    notlast = False
-    if total_rows &gt; 0:
-        outstring += "&lt;br /&gt;"
-        if (int(page) * int(item_per_page)) &lt; total_rows:
-            notlast = True
-        if int(page) &gt; 1:
-            outstring += "&lt;a href='"
-            outstring += "download_list?&amp;amp;page=1&amp;amp;item_per_page=" + str(item_per_page) + \
-                                "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;&lt;&lt;&lt;/a&gt; "
-            page_num = int(page) - 1
-            outstring += "&lt;a href='"
-            outstring += "download_list?&amp;amp;page=" + str(page_num) + "&amp;amp;item_per_page=" + \
-                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;Previous&lt;/a&gt; "
-
-        span = 10
-
-        for index in range(int(page)-span, int(page)+span):
-            if index&gt;= 0 and index&lt; totalpage:
-                page_now = index + 1 
-                if page_now == int(page):
-                    outstring += "&lt;font size='+1' color='red'&gt;" + str(page) + " &lt;/font&gt;"
-                else:
-                    outstring += "&lt;a href='"
-                    outstring += "download_list?&amp;amp;page=" + str(page_now) + "&amp;amp;item_per_page=" + \
-                                        str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-                    outstring += "'&gt;"+str(page_now) + "&lt;/a&gt; "
-
-        if notlast == True:
-            nextpage = int(page) + 1
-            outstring += " &lt;a href='"
-            outstring += "download_list?&amp;amp;page=" + str(nextpage) + "&amp;amp;item_per_page=" + \
-                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;Next&lt;/a&gt;"
-            outstring += " &lt;a href='"
-            outstring += "download_list?&amp;amp;page=" + str(totalpage) + "&amp;amp;item_per_page=" + \
-                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;&gt;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;"
-
-        if (int(page) * int(item_per_page)) &lt; total_rows:
-            notlast = True
-            outstring += downloadlist_access_list(files, starti, endi) + "&lt;br /&gt;"
-        else:
-            outstring += "&lt;br /&gt;&lt;br /&gt;"
-            outstring += downloadlist_access_list(files, starti, total_rows) + "&lt;br /&gt;"
-
-        if int(page) &gt; 1:
-            outstring += "&lt;a href='"
-            outstring += "download_list?&amp;amp;page=1&amp;amp;item_per_page=" + str(item_per_page) + \
-                                "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;&lt;&lt;&lt;/a&gt; "
-            page_num = int(page) - 1
-            outstring += "&lt;a href='"
-            outstring += "download_list?&amp;amp;page=" + str(page_num) + "&amp;amp;item_per_page=" + \
-                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;Previous&lt;/a&gt; "
-
-        span = 10
-
-        for index in range(int(page)-span, int(page)+span):
-        #for ($j=$page-$range;$j&lt;$page+$range;$j++)
-            if index &gt;=0 and index &lt; totalpage:
-                page_now = index + 1
-                if page_now == int(page):
-                    outstring += "&lt;font size='+1' color='red'&gt;" + str(page)+" &lt;/font&gt;"
-                else:
-                    outstring += "&lt;a href='"
-                    outstring += "download_list?&amp;amp;page=" + str(page_now) + \
-                                        "&amp;amp;item_per_page=" + str(item_per_page) + \
-                                        "&amp;amp;keyword=" + str(session.get('download_keyword'))
-                    outstring += "'&gt;" + str(page_now)+"&lt;/a&gt; "
-
-        if notlast == True:
-            nextpage = int(page) + 1
-            outstring += " &lt;a href='"
-            outstring += "download_list?&amp;amp;page=" + str(nextpage) + "&amp;amp;item_per_page=" + \
-                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;Next&lt;/a&gt;"
-            outstring += " &lt;a href='"
-            outstring += "download_list?&amp;amp;page=" + str(totalpage) + "&amp;amp;item_per_page=" + \
-                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
-            outstring += "'&gt;&gt;&gt;&lt;/a&gt;"
-    else:
-        outstring += "no data!"
-    outstring += "&lt;br /&gt;&lt;br /&gt;&lt;input type='submit' value='delete'&gt;&lt;input type='reset' value='reset'&gt;&lt;/form&gt;"
-
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-
-    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-               directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
-
-
-</t>
-<t tx="leo.20181015140531.8">def downloadlist_access_list(files, starti, endi):
-    """List files function for download_list."""
-    # different extension files, associated links were provided
-    # popup window to view images, video or STL files, other files can be downloaded directly
-    # files are all the data to list, from starti to endi
-    # add file size
-    outstring = ""
-    for index in range(int(starti)-1, int(endi)):
-        fileName, fileExtension = os.path.splitext(files[index])
-        fileExtension = fileExtension.lower()
-        fileSize = sizeof_fmt(os.path.getsize(download_dir+"/"+files[index]))
-        # images files
-        if fileExtension == ".png" or fileExtension == ".jpg" or fileExtension == ".gif":
-            outstring += '&lt;input type="checkbox" name="filename" value="' + \
-                              files[index] + '"&gt;&lt;a href="javascript:;" onClick="window.open(\'/images/'+ \
-                              files[index] + '\',\'images\', \'catalogmode\',\'scrollbars\')"&gt;' + \
-                              files[index] + '&lt;/a&gt; (' + str(fileSize) + ')&lt;br /&gt;'
-        # stl files
-        elif fileExtension == ".stl":
-            outstring += '&lt;input type="checkbox" name="filename" value="' + \
-                              files[index] + '"&gt;&lt;a href="javascript:;" onClick="window.open(\'/static/viewstl.html?src=/downloads/' + \
-                              files[index] + '\',\'images\', \'catalogmode\',\'scrollbars\')"&gt;' + \
-                              files[index] + '&lt;/a&gt; (' + str(fileSize) + ')&lt;br /&gt;'
-        # flv files
-        elif fileExtension == ".flv":
-            outstring += '&lt;input type="checkbox" name="filename" value="' + \
-                              files[index] + '"&gt;&lt;a href="javascript:;" onClick="window.open(\'/flvplayer?filepath=/downloads/' + \
-            files[index] + '\',\'images\', \'catalogmode\',\'scrollbars\')"&gt;' + files[index] + '&lt;/a&gt; (' + str(fileSize) + ')&lt;br /&gt;'
-        # direct download files
-        else:
-            outstring += "&lt;input type='checkbox' name='filename' value='" + files[index] + \
-                              "'&gt;&lt;a href='/downloads/" + files[index] + "'&gt;" + files[index] + \
-                              "&lt;/a&gt; (" + str(fileSize) + ")&lt;br /&gt;"
-    return outstring
-
-
-# downloads 方法主要將位於 downloads 目錄下的檔案送回瀏覽器
-</t>
-<t tx="leo.20181015140531.9">@app.route('/downloads/&lt;path:path&gt;')
-def downloads(path):
-    """Send files in downloads directory."""
-    return send_from_directory(_curdir+"/downloads/", path)
-
-
-# 與 file_selector 搭配的取檔程式
-</t>
-<t tx="leo.20181015140532.1">@app.route('/file_selector', methods=['GET'])
+<t tx="leo.20181104192502.18">@app.route('/file_selector', methods=['GET'])
 def file_selector():
     if not isAdmin():
         return redirect("/login")
@@ -1235,7 +616,331 @@ def file_selector():
 
 
 </t>
-<t tx="leo.20181015140532.10">@app.route('/image_doDelete', methods=['POST'])
+<t tx="leo.20181104192502.19">def file_selector_script():
+    return '''
+&lt;script language="javascript" type="text/javascript"&gt;
+$(function(){
+    $('.a').on('click', function(event){
+        setLink();
+    });
+});
+
+function setLink (url, objVals) {
+    top.tinymce.activeEditor.windowManager.getParams().oninsert(url, objVals);
+    top.tinymce.activeEditor.windowManager.close();
+    return false;
+}
+&lt;/script&gt;
+'''
+
+
+</t>
+<t tx="leo.20181104192502.2">@app.route('/checkLogin', methods=['POST'])
+def checkLogin():
+    """Check user login process."""
+    password = request.form["password"]
+    site_title, saved_password = parse_config()
+    hashed_password = hashlib.sha512(password.encode('utf-8')).hexdigest()
+    if hashed_password == saved_password:
+        session['admin'] = 1
+        return redirect('/edit_page')
+    return redirect('/')
+
+ 
+</t>
+<t tx="leo.20181104192502.20">@app.route('/fileaxupload', methods=['POST'])
+# ajax jquery chunked file upload for flask
+def fileaxupload():
+    if isAdmin():
+        # need to consider if the uploaded filename already existed.
+        # right now all existed files will be replaced with the new files
+        filename = request.args.get("ax-file-name")
+        flag = request.args.get("start")
+        if flag == "0":
+            file = open(_curdir + "/downloads/" + filename, "wb")
+        else:
+            file = open(_curdir + "/downloads/" + filename, "ab")
+        file.write(request.stream.read())
+        file.close()
+        return "files uploaded!"
+    else:
+        return redirect("/login")
+
+
+</t>
+<t tx="leo.20181104192502.21">@app.route('/fileuploadform', defaults={'edit':1})
+@app.route('/fileuploadform/&lt;path:edit&gt;')
+def fileuploadform(edit):
+    if isAdmin():
+        head, level, page = parse_content()
+        directory = render_menu(head, level, page)
+        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;"+ \
+                 directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;file upload&lt;/h1&gt;" + \
+                 '''&lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
+&lt;script&gt;
+$(document).ready(function(){
+$('.prova').axuploader({url:'fileaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
+finish:function(x,files)
+    {
+        alert('All files have been uploaded: '+files);
+    },
+enable:true,
+remotePath:function(){
+return 'downloads/';
+}
+});
+});
+&lt;/script&gt;
+&lt;div class="prova"&gt;&lt;/div&gt;
+&lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
+&lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
+&lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
+'''
+    else:
+        return redirect("/login")
+
+
+</t>
+<t tx="leo.20181104192502.22">@app.route('/flvplayer')
+# 需要檢視能否取得 filepath 變數
+def flvplayer(filepath=None):
+    outstring = '''
+&lt;object type="application/x-shockwave-flash" data="/static/player_flv_multi.swf" width="320" height="240"&gt;
+     &lt;param name="movie" value="player_flv_multi.swf" /&gt;
+     &lt;param name="allowFullScreen" value="true" /&gt;
+     &lt;param name="FlashVars" value="flv=''' + filepath + '''&amp;amp;width=320&amp;amp;height=240&amp;amp;showstop=1&amp;amp;showvolume=1&amp;amp;showtime=1
+     &amp;amp;startimage=/static/startimage_en.jpg&amp;amp;showfullscreen=1&amp;amp;bgcolor1=189ca8&amp;amp;bgcolor2=085c68
+     &amp;amp;playercolor=085c68" /&gt;
+&lt;/object&gt;
+'''
+    return outstring
+
+
+</t>
+<t tx="leo.20181104192502.23">@app.route('/generate_pages')
+def generate_pages():
+    # 必須決定如何處理重複標題頁面的轉檔
+    import os
+    # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
+    _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
+    # 根據 content.htm 內容, 逐一產生各頁面檔案
+    # 在此也要同時配合 render_menu2, 產生對應的 anchor 連結
+    head, level, page = parse_content()
+    # 處理重複標題 head 數列， 再重複標題按照次序加上 1, 2, 3...
+    newhead = []
+    for i, v in enumerate(head):
+        # 各重複標題總數
+        totalcount = head.count(v)
+        # 目前重複標題出現總數
+        count = head[:i].count(v)
+        # 針對重複標題者, 附加目前重複標題出現數 +1, 未重複採原標題
+        newhead.append(v + "-" + str(count + 1) if totalcount &gt; 1 else v)
+    # 刪除 content 目錄中所有 html 檔案
+    filelist = [ f for f in os.listdir(_curdir + "\\content\\") if f.endswith(".html") ]
+    for f in filelist:
+        os.remove(os.path.join(_curdir + "\\content\\", f))
+    # 這裡需要建立專門寫出 html 的 write_page
+    # index.html
+    file = open(_curdir + "\\content\\index.html", "w", encoding="utf-8")
+    file.write(get_page2(None, newhead, 0))
+    file.close()
+    # sitemap
+    file = open(_curdir + "\\content\\sitemap.html", "w", encoding="utf-8")
+    # sitemap2 需要 newhead
+    file.write(sitemap2(newhead))
+    file.close()
+    # 以下轉檔, 改用 newhead 數列
+    for i in range(len(newhead)):
+        # 在此必須要將頁面中的 /images/ 字串換為 images/, /downloads/ 換為 downloads/
+        # 因為 Flask 中靠 /images/ 取檔案, 但是一般 html 則採相對目錄取檔案
+        # 此一字串置換在 get_page2 中進行
+        file = open(_curdir + "\\content\\" + newhead[i] + ".html", "w", encoding="utf-8")
+        # 增加以 newhead 作為輸入
+        file.write(get_page2(newhead[i], newhead, 0))
+        file.close()
+    # generate each page html under content directory
+    return "已經將網站轉為靜態網頁. &lt;a href='/'&gt;Home&lt;/a&gt;"
+# seperate page need heading and edit variables, if edit=1, system will enter edit mode
+# single page edit will use ssavePage to save content, it means seperate save page
+</t>
+<t tx="leo.20181104192502.24">@app.route('/get_page')
+@app.route('/get_page/&lt;heading&gt;', defaults={'edit': 0})
+@app.route('/get_page/&lt;heading&gt;/&lt;int:edit&gt;')
+def get_page(heading, edit):
+    head, level, page = parse_content()
+    directory = render_menu(head, level, page)
+    if heading is None:
+        heading = head[0]
+    # 因為同一 heading 可能有多頁, 因此不可使用 head.index(heading) 搜尋 page_order
+    page_order_list, page_content_list = search_content(head, page, heading)
+    return_content = ""
+    pagedata = ""
+    outstring = ""
+    outstring_duplicate = ""
+    pagedata_duplicate = ""
+    outstring_list = []
+    for i in range(len(page_order_list)):
+        #page_order = head.index(heading)
+        page_order = page_order_list[i]
+        if page_order == 0:
+            last_page = ""
+        else:
+            last_page = head[page_order-1] + " &lt;&lt; &lt;a href='/get_page/" + \
+                             head[page_order-1] + "'&gt;Previous&lt;/a&gt;"
+        if page_order == len(head) - 1:
+            # no next page
+            next_page = ""
+        else:
+            next_page = "&lt;a href='/get_page/"+ head[page_order+1] + \
+                              "'&gt;Next&lt;/a&gt; &gt;&gt; " + head[page_order+1]
+        if len(page_order_list) &gt; 1:
+            return_content += last_page + " " + next_page + \
+                                      "&lt;br /&gt;&lt;h1&gt;" + heading + "&lt;/h1&gt;" + \
+                                      page_content_list[i] + "&lt;br /&gt;"+ \
+                                      last_page + " " + next_page + "&lt;br /&gt;&lt;hr&gt;"
+            pagedata_duplicate = "&lt;h"+level[page_order] + "&gt;" + heading + \
+                                          "&lt;/h"+level[page_order] + "&gt;" + page_content_list[i]
+            outstring_list.append(last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata_duplicate), page_order))
+        else:
+            return_content += last_page + " " + next_page + "&lt;br /&gt;&lt;h1&gt;" +\
+                                      heading + "&lt;/h1&gt;" + page_content_list[i] + "&lt;br /&gt;" + last_page + " " + next_page
+            
+        pagedata += "&lt;h"+level[page_order] + "&gt;" + heading + "&lt;/h" + level[page_order] + "&gt;" + page_content_list[i]
+        # 利用 cgi.escape() 將 specialchar 轉成只能顯示的格式
+        outstring += last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata), page_order)
+    
+    # edit=0 for viewpage
+    if edit == 0:
+        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+                 directory + "&lt;/nav&gt;&lt;section&gt;" + return_content + "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
+    # enter edit mode
+    else:
+        # check if administrator
+        if not isAdmin():
+            redirect(url_for('login'))
+        else:
+            if len(page_order_list) &gt; 1:
+                # 若碰到重複頁面頁印, 且要求編輯, 則導向 edit_page
+                #return redirect("/edit_page")
+                for i in range(len(page_order_list)):
+                    outstring_duplicate += outstring_list[i] + "&lt;br /&gt;&lt;hr&gt;"
+                return outstring_duplicate
+            else:
+            #pagedata = "&lt;h"+level[page_order]+"&gt;"+heading+"&lt;/h"+level[page_order]+"&gt;"+search_content(head, page, heading)
+            #outstring = last_page+" "+next_page+"&lt;br /&gt;"+ tinymce_editor(directory, cgi.escape(pagedata), page_order)
+                return outstring
+
+
+# seperate page need heading and edit variables, if edit=1, system will enter edit mode
+# single page edit will use ssavePage to save content, it means seperate save page
+'''
+@app.route('/get_page2')
+@app.route('/get_page2/&lt;heading&gt;', defaults={'edit': 0})
+@app.route('/get_page2/&lt;heading&gt;/&lt;int:edit&gt;')
+'''
+</t>
+<t tx="leo.20181104192502.25">def get_page2(heading, head, edit):
+    not_used_head, level, page = parse_content()
+    # 直接在此將 /images/ 換為 ./../images/, /downloads/ 換為 ./../downloads/, 以 content 為基準的相對目錄設定
+    page = [w.replace('/images/', './../images/') for w in page]
+    page = [w.replace('/downloads/', './../downloads/') for w in page]
+    directory = render_menu2(head, level, page)
+    if heading is None:
+        heading = head[0]
+    # 因為同一 heading 可能有多頁, 因此不可使用 head.index(heading) 搜尋 page_order
+    page_order_list, page_content_list = search_content(head, page, heading)
+    return_content = ""
+    pagedata = ""
+    outstring = ""
+    outstring_duplicate = ""
+    pagedata_duplicate = ""
+    outstring_list = []
+    for i in range(len(page_order_list)):
+        #page_order = head.index(heading)
+        page_order = page_order_list[i]
+        if page_order == 0:
+            last_page = ""
+        else:
+            #last_page = head[page_order-1]+ " &lt;&lt; &lt;a href='/get_page/" + head[page_order-1] + "'&gt;Previous&lt;/a&gt;"
+            last_page = head[page_order-1] + " &lt;&lt; &lt;a href='"+head[page_order-1] + ".html'&gt;Previous&lt;/a&gt;"
+        if page_order == len(head) - 1:
+            # no next page
+            next_page = ""
+        else:
+            #next_page = "&lt;a href='/get_page/"+head[page_order+1] + "'&gt;Next&lt;/a&gt; &gt;&gt; " + head[page_order+1]
+            next_page = "&lt;a href='" + head[page_order+1] + ".html'&gt;Next&lt;/a&gt; &gt;&gt; " + head[page_order+1]
+        if len(page_order_list) &gt; 1:
+            return_content += last_page + " " + next_page + "&lt;br /&gt;&lt;h1&gt;" + \
+                                      heading + "&lt;/h1&gt;" + page_content_list[i] + \
+                                      "&lt;br /&gt;" + last_page + " "+ next_page + "&lt;br /&gt;&lt;hr&gt;"
+            pagedata_duplicate = "&lt;h"+level[page_order] + "&gt;" + heading + "&lt;/h" + level[page_order]+"&gt;"+page_content_list[i]
+            outstring_list.append(last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata_duplicate), page_order))
+        else:
+            return_content += last_page + " " + next_page + "&lt;br /&gt;&lt;h1&gt;" + \
+                                      heading + "&lt;/h1&gt;" + page_content_list[i] + \
+                                      "&lt;br /&gt;" + last_page + " " + next_page
+            
+        pagedata += "&lt;h" + level[page_order] + "&gt;" + heading + \
+                          "&lt;/h" + level[page_order] + "&gt;" + page_content_list[i]
+        # 利用 cgi.escape() 將 specialchar 轉成只能顯示的格式
+        outstring += last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata), page_order)
+    
+    # edit=0 for viewpage
+    if edit == 0:
+        return set_css2() + "&lt;div class='container'&gt;&lt;nav&gt;"+ \
+        directory + "&lt;/nav&gt;&lt;section&gt;" + return_content + "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
+    # enter edit mode
+    else:
+        # check if administrator
+        if not isAdmin():
+            redirect(url_for('login'))
+        else:
+            if len(page_order_list) &gt; 1:
+                # 若碰到重複頁面頁印, 且要求編輯, 則導向 edit_page
+                #return redirect("/edit_page")
+                for i in range(len(page_order_list)):
+                    outstring_duplicate += outstring_list[i] + "&lt;br /&gt;&lt;hr&gt;"
+                return outstring_duplicate
+            else:
+            #pagedata = "&lt;h" + level[page_order]+"&gt;" + heading + "&lt;/h" + level[page_order] + "&gt;" + search_content(head, page, heading)
+            #outstring = last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata), page_order)
+                return outstring
+
+
+</t>
+<t tx="leo.20181104192502.26">@app.route('/image_delete_file', methods=['POST'])
+def image_delete_file():
+    if not isAdmin():
+        return redirect("/login")
+    filename = request.form['filename']
+    head, level, page = parse_content()
+    directory = render_menu(head, level, page)
+    if filename is None:
+        outstring = "no file selected!"
+        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+                 directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Delete Error&lt;/h1&gt;" + \
+                 outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
+    outstring = "delete all these files?&lt;br /&gt;&lt;br /&gt;"
+    outstring += "&lt;form method='post' action='image_doDelete'&gt;"
+    # only one file is selected
+    if isinstance(filename, str):
+        outstring += filename + "&lt;input type='hidden' name='filename' value='" + \
+                          filename + "'&gt;&lt;br /&gt;"
+    else:
+        # multiple files selected
+        for index in range(len(filename)):
+            outstring += filename[index] + "&lt;input type='hidden' name='filename' value='" + \
+                              filename[index] + "'&gt;&lt;br /&gt;"
+    outstring += "&lt;br /&gt;&lt;input type='submit' value='delete'&gt;&lt;/form&gt;"
+
+    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+             directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + \
+             outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
+
+
+</t>
+<t tx="leo.20181104192502.27">@app.route('/image_doDelete', methods=['POST'])
 def image_doDelete():
     if not isAdmin():
         return redirect("/login")
@@ -1267,7 +972,7 @@ def image_doDelete():
 
 
 </t>
-<t tx="leo.20181015140532.11">@app.route('/image_list', methods=['GET'])
+<t tx="leo.20181104192502.28">@app.route('/image_list', methods=['GET'])
 def image_list():
     if not isAdmin():
         return redirect("/login")
@@ -1394,7 +1099,7 @@ def image_list():
 
 
 </t>
-<t tx="leo.20181015140532.12">@app.route('/imageaxupload', methods=['POST'])
+<t tx="leo.20181104192502.29">@app.route('/imageaxupload', methods=['POST'])
 # ajax jquery chunked file upload for flask
 def imageaxupload():
     if isAdmin():
@@ -1414,7 +1119,39 @@ def imageaxupload():
 
 
 </t>
-<t tx="leo.20181015140532.13">def imagelist_access_list(files, starti, endi):
+<t tx="leo.20181104192502.3">@app.route('/delete_file', methods=['POST'])
+def delete_file():
+    """Delete user uploaded files."""
+    if not isAdmin():
+        return redirect("/login")
+    head, level, page = parse_content()
+    directory = render_menu(head, level, page)
+    filename = request.form['filename']
+    if filename is None:
+        outstring = "no file selected!"
+        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+                   directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Delete Error&lt;/h1&gt;" + \
+                   outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
+    outstring = "delete all these files?&lt;br /&gt;&lt;br /&gt;"
+    outstring += "&lt;form method='post' action='doDelete'&gt;"
+    # only one file is selected
+    if isinstance(filename, str):
+        outstring += filename + "&lt;input type='hidden' name='filename' value='" + \
+                            filename + "'&gt;&lt;br /&gt;"
+    else:
+        # multiple files selected
+        for index in range(len(filename)):
+            outstring += filename[index] + "&lt;input type='hidden' name='filename' value='" + \
+                                filename[index]+"'&gt;&lt;br /&gt;"
+    outstring += "&lt;br /&gt;&lt;input type='submit' value='delete'&gt;&lt;/form&gt;"
+
+    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+               directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + \
+               outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
+
+
+</t>
+<t tx="leo.20181104192502.30">def imagelist_access_list(files, starti, endi):
     # different extension files, associated links were provided
     # popup window to view images, video or STL files, other files can be downloaded directly
     # files are all the data to list, from starti to endi
@@ -1435,7 +1172,7 @@ def imageaxupload():
 
 # 與 file_selector 搭配的取影像檔程式
 </t>
-<t tx="leo.20181015140532.14">def imageselect_access_list(files, starti, endi):
+<t tx="leo.20181104192502.31">def imageselect_access_list(files, starti, endi):
     outstring = '''&lt;head&gt;
 &lt;style&gt;
 a.xhfbfile {padding: 0 2px 0 0; line-height: 1em;}
@@ -1469,7 +1206,7 @@ a.xhfbfile:hover{
 
 
 </t>
-<t tx="leo.20181015140532.15">@app.route('/imageuploadform', defaults={'edit': 1})
+<t tx="leo.20181104192502.32">@app.route('/imageuploadform', defaults={'edit': 1})
 @app.route('/imageuploadform/&lt;path:edit&gt;')
 def imageuploadform(edit):
     """image files upload form"""
@@ -1504,7 +1241,7 @@ return 'images/';
 
 
 </t>
-<t tx="leo.20181015140532.16">@app.route('/')
+<t tx="leo.20181104192502.33">@app.route('/')
 def index():
     head, level, page = parse_content()
     # fix first Chinese heading error
@@ -1539,7 +1276,7 @@ def index():
 
 
 </t>
-<t tx="leo.20181015140532.17">def isAdmin():
+<t tx="leo.20181104192502.34">def isAdmin():
     if session.get('admin') == 1:
             return True
     else:
@@ -1548,13 +1285,13 @@ def index():
 
 # use to check directory variable data
 </t>
-<t tx="leo.20181015140532.18">@app.route('/listdir')
+<t tx="leo.20181104192502.35">@app.route('/listdir')
 def listdir():
     return download_dir + "," + config_dir
 
 
 </t>
-<t tx="leo.20181015140532.19">@app.route('/load_list')
+<t tx="leo.20181104192502.36">@app.route('/load_list')
 def load_list(item_per_page=5, page=1, filedir=None, keyword=None):
     files = os.listdir(config_dir+filedir+"_programs/")
     if keyword is None:
@@ -1668,26 +1405,7 @@ function keywordSearch(){
 
 
 </t>
-<t tx="leo.20181015140532.2">def file_selector_script():
-    return '''
-&lt;script language="javascript" type="text/javascript"&gt;
-$(function(){
-    $('.a').on('click', function(event){
-        setLink();
-    });
-});
-
-function setLink (url, objVals) {
-    top.tinymce.activeEditor.windowManager.getParams().oninsert(url, objVals);
-    top.tinymce.activeEditor.windowManager.close();
-    return false;
-}
-&lt;/script&gt;
-'''
-
-
-</t>
-<t tx="leo.20181015140532.20">def loadlist_access_list(files, starti, endi, filedir):
+<t tx="leo.20181104192502.37">def loadlist_access_list(files, starti, endi, filedir):
     # different extension files, associated links were provided
     # popup window to view images, video or STL files, other files can be downloaded directly
     # files are all the data to list, from starti to endi
@@ -1721,7 +1439,7 @@ function setLink (url, objVals) {
 
 
 </t>
-<t tx="leo.20181015140532.21">@app.route('/login')
+<t tx="leo.20181104192502.38">@app.route('/login')
 def login():
     """login routine"""
     head, level, page = parse_content()
@@ -1737,7 +1455,7 @@ def login():
 
 
 </t>
-<t tx="leo.20181015140532.22">@app.route('/logout')
+<t tx="leo.20181104192502.39">@app.route('/logout')
 def logout():
     session.pop('admin' , None)
     flash('已經登出!')
@@ -1745,7 +1463,40 @@ def logout():
 
 
 </t>
-<t tx="leo.20181015140532.23">def parse_config():
+<t tx="leo.20181104192502.4">@app.route('/doDelete', methods=['POST'])
+def doDelete():
+    """Action to delete user uploaded files."""
+    if not isAdmin():
+        return redirect("/login")
+    # delete files
+    filename = request.form['filename']
+    outstring = "all these files will be deleted:&lt;br /&gt;&lt;br /&gt;"
+    # only select one file
+    if isinstance(filename, str):
+        try:
+            os.remove(download_dir + "/" + filename)
+            outstring += filename + " deleted!"
+        except:
+            outstring += filename + "Error, can not delete files!&lt;br /&gt;"
+    else:
+        # multiple files selected
+        for index in range(len(filename)):
+            try:
+                os.remove(download_dir + "/" + filename[index])
+                outstring += filename[index] + " deleted!&lt;br /&gt;"
+            except:
+                outstring += filename[index] + "Error, can not delete files!&lt;br /&gt;"
+
+    head, level, page = parse_content()
+    directory = render_menu(head, level, page)
+
+    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+               directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + \
+               outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
+
+
+</t>
+<t tx="leo.20181104192502.40">def parse_config():
     if not os.path.isfile(config_dir+"config"):
         # create config file if there is no config file
         file = open(config_dir + "config", "w", encoding="utf-8")
@@ -1762,104 +1513,57 @@ def logout():
 
 
 </t>
-<t tx="leo.20181015140532.24">def _remove_h123_attrs(soup):
-    for tag in soup.findAll(['h1', 'h2', 'h3']): 
-        # 去除標註中的所有 attributes
-        tag.attrs = {}
-        # 標註內容只留下字串, 必須要額外處理無字串的標題
-        # 例如: &lt;p&gt; 或 &lt;img&gt; 等標註, 若 h1, h2, h3 contents 中有 img, 則
-        # 利用 tag.replaceWithChildren() 只保留 img, 去除 h 標註
-        if (tag.string is not None) and (tag.get_text() is not None):
-            tag.string = tag.get_text()
+<t tx="leo.20181104192502.41">def _remove_h123_attrs(soup):
+    tag_order = 0
+    for tag in soup.find_all(['h1', 'h2', 'h3']):
+        # 假如標註內容沒有字串
+        #if len(tag.text) == 0:
+        if len(tag.contents) ==0:
+            # 且該標註為排序第一
+            if tag_order == 0:
+                tag.string = "First"
+            else:
+                # 若該標註非排序第一, 則移除無內容的標題標註
+                tag.extract()
+        # 針對單一元件的標題標註
+        elif len(tag.contents) == 1:
+            # 若內容非為純文字, 表示內容為其他標註物件
+            if tag.get_text() == "":
+                # 且該標註為排序第一
+                if tag_order == 0:
+                    # 在最前方插入標題
+                    tag.insert_before(soup.new_tag('h1', 'First'))
+                else:
+                    # 移除 h1, h2 或 h3 標註, 只留下內容
+                    tag.replaceWithChildren()
+            # 表示單一元件的標題標註, 且標題為單一字串者
+            else:
+                # 判定若其排序第一, 則將 tag.name 為 h2 或 h3 者換為 h1
+                if tag_order == 0:
+                    tag.name = "h1"
+            # 針對其餘單一字串內容的標註, 則保持原樣
+        # 針對內容一個以上的標題標註
+        #elif len(tag.contents) &gt; 1:
         else:
-            # 只保留標題內容,  去除 h1, h2 或 h3 標註
-            tag.replaceWithChildren()
+            # 假如該標註內容長度大於 1
+            # 且該標註為排序第一
+            if tag_order == 0:
+                # 先移除 h1, h2 或 h3 標註, 只留下內容
+                #tag.replaceWithChildren()
+                # 在最前方插入標題
+                tag.insert_before(soup.new_tag('h1', 'First'))
+            else:
+                # 只保留標題內容,  去除 h1, h2 或 h3 標註
+                # 為了與前面的內文區隔, 先在最前面插入 br 標註
+                tag.insert_before(soup.new_tag('br'))
+                # 再移除非排序第一的 h1, h2 或 h3 標註, 只留下內容
+                tag.replaceWithChildren()
+        tag_order = tag_order + 1
+
     return soup
 
 </t>
-<t tx="leo.20181015140532.25">def good_parse_content():
-    """use bs4 and re module functions to parse content.htm"""
-    #from pybean import Store, SQLiteWriter
-    # if no content.db, create database file with cms table
-    '''
-    if not os.path.isfile(config_dir+"content.db"):
-        library = Store(SQLiteWriter(config_dir+"content.db", frozen=False))
-        cms = library.new("cms")
-        cms.follow = 0
-        cms.title = "head 1"
-        cms.content = "content 1"
-        cms.memo = "first memo"
-        library.save(cms)
-        library.commit()
-    '''
-    # if no content.htm, generate a head 1 and content 1 file
-    if not os.path.isfile(config_dir + "content.htm"):
-        # create content.htm if there is no content.htm
-        File = open(config_dir + "content.htm", "w", encoding="utf-8")
-        File.write("&lt;h1&gt;head 1&lt;/h1&gt;content 1")
-        File.close()
-    subject = file_get_contents(config_dir + "content.htm")
-    # deal with content without content
-    if subject == "":
-        # create content.htm if there is no content.htm
-        File = open(config_dir + "content.htm", "w", encoding="utf-8")
-        File.write("&lt;h1&gt;head 1&lt;/h1&gt;content 1")
-        File.close()
-        subject = "&lt;h1&gt;head 1&lt;/h1&gt;content 1"
-    # initialize the return lists
-    head_list = []
-    level_list = []
-    page_list = []
-    # make the soup out of the html content
-    soup = BeautifulSoup(subject, 'html.parser')
-    # get all h1, h2, h3 tags into list
-    htag= soup.find_all(['h1', 'h2', 'h3'])
-    n = len(htag)
-    # get all h tags
-    # g.es(soup.find_all(re.compile(r"^h\d$")))
-    # get the page content to split subject using each h tag
-    # i = 0
-    temp_data = subject.split(str(htag[0]))
-    # 若有重複標題頁面, 則切割後, 必須將序號 1 之後的資料進行接合
-    if len(temp_data) &gt; 2:
-        subject = str(htag[0]).join(temp_data[1:])
-    else:
-        subject = temp_data[1]
-    if n &gt;1:
-            # i from 1 to i-1
-            for i in range(1, len(htag)):
-                # add the first page title
-                head_list.append(htag[i-1].text.strip())
-                # use name attribute of h* tag to get h1, h2 or h3
-                # the number of h1, h2 or h3 is the level of page menu
-                level_list.append(htag[i-1].name[1])
-                temp_data = subject.split(str(htag[i]))
-                # 若有重複標題頁面, 則切割後, 必須將序號 1 之後的資料進行接合
-                if len(temp_data) &gt; 2:
-                    subject = str(htag[i]).join(temp_data[1:])
-                else:
-                    subject = temp_data[1]
-                # cut the other page content out of htag from 1 to i-1
-                cut = temp_data[0]
-                # add the page content
-                page_list.append(cut)
-    # last i
-    # add the last page title
-    head_list.append(htag[n-1].text.strip())
-    # add the last level
-    level_list.append(htag[n-1].name[1])
-    temp_data = subject.split(str(htag[n-1]))
-    # the last subject
-    subject = temp_data[0]
-    # cut the last page content out
-    cut = temp_data[0]
-    # the last page content
-    page_list.append(cut)
-    return head_list, level_list, page_list
-
-
-</t>
-<t tx="leo.20181015140532.26">def bad_parse_content():
+<t tx="leo.20181104192502.42">def parse_content():
     """use bs4 and re module functions to parse content.htm"""
     #from pybean import Store, SQLiteWriter
     # if no content.db, create database file with cms table
@@ -1893,14 +1597,9 @@ def logout():
     level_list = []
     page_list = []
     # make the soup out of the html content
-    soup = BeautifulSoup(subject, 'html.parser')
-    # 嘗試移除 h 標註中的任何 attributes 設定
+    soup = bs4.BeautifulSoup(subject, 'html.parser')
+    # 嘗試解讀各種情況下的標題
     soup = _remove_h123_attrs(soup)
-    # 這裡還需要將 h1~h3 的內容中可能出現的各種標註去除
-    # 目前仍無法處理標題中的 &lt;p&gt; 標註
-    for title_tags in soup.find_all(['h1', 'h2', 'h3']):
-        title_text = title_tags.get_text()
-        title_tags.string.replace_with(title_text)
     # 改寫 content.htm 後重新取 subject
     with open(config_dir + "content.htm", "wb") as f:
         f.write(soup.encode("utf-8"))
@@ -1908,10 +1607,7 @@ def logout():
     # get all h1, h2, h3 tags into list
     htag= soup.find_all(['h1', 'h2', 'h3'])
     n = len(htag)
-    # get all h tags
-    # g.es(soup.find_all(re.compile(r"^h\d$")))
     # get the page content to split subject using each h tag
-    # i = 0
     temp_data = subject.split(str(htag[0]))
     if len(temp_data) &gt; 2:
         subject = str(htag[0]).join(temp_data[1:])
@@ -1920,12 +1616,7 @@ def logout():
     if n &gt;1:
             # i from 1 to i-1
             for i in range(1, len(htag)):
-                # add the first page title
-                #soup = BeautifulSoup(htag[i-1].text.strip())
-                #title_text = soup.get_text()
-                # 原先只有下列一行, 改為上面兩行與下面一行
                 head_list.append(htag[i-1].text.strip())
-                #head_list.append(title_text)
                 # use name attribute of h* tag to get h1, h2 or h3
                 # the number of h1, h2 or h3 is the level of page menu
                 level_list.append(htag[i-1].name[1])
@@ -1940,13 +1631,7 @@ def logout():
                 page_list.append(cut)
     # last i
     # add the last page title
-    # 再利用 bs4 移除標題中可能的其他標註
-    #soup = BeautifulSoup(htag[n-1].text.strip())
-    #title_text = soup.get_text()
-    # 原先只有下列一行
     head_list.append(htag[n-1].text.strip())
-    # 配合上上兩行, 改為下一行
-    #head_list.append(title_text)
     # add the last level
     level_list.append(htag[n-1].name[1])
     temp_data = subject.split(str(htag[n-1]))
@@ -1958,21 +1643,8 @@ def logout():
     page_list.append(cut)
     return head_list, level_list, page_list
 
-
 </t>
-<t tx="leo.20181015140532.27">def parse_content():
-    """假如一律以 bad_parse_content() 處理, 可以移除空白標題"""
-    return bad_parse_content()
-
-    '''
-    try:
-        return good_parse_content()
-    except:
-        return bad_parse_content()
-    '''
-
-</t>
-<t tx="leo.20181015140532.28">def render_menu(head, level, page, sitemap=0):
+<t tx="leo.20181104192502.43">def render_menu(head, level, page, sitemap=0):
     '''允許使用者在 h1 標題後直接加上 h3 標題, 或者隨後納入 h4 之後作為標題標註'''
     directory = ""
     # 從 level 數列第一個元素作為開端
@@ -2025,7 +1697,7 @@ def logout():
     directory += "&lt;/li&gt;&lt;/ul&gt;"
     return directory
 </t>
-<t tx="leo.20181015140532.29">def render_menu2(head, level, page, sitemap=0):
+<t tx="leo.20181104192502.44">def render_menu2(head, level, page, sitemap=0):
     """render menu for static site"""
     directory = ""
     current_level = level[0]
@@ -2073,27 +1745,7 @@ def logout():
     directory += "&lt;/li&gt;&lt;/ul&gt;"
     return directory
 </t>
-<t tx="leo.20181015140532.3">@app.route('/fileaxupload', methods=['POST'])
-# ajax jquery chunked file upload for flask
-def fileaxupload():
-    if isAdmin():
-        # need to consider if the uploaded filename already existed.
-        # right now all existed files will be replaced with the new files
-        filename = request.args.get("ax-file-name")
-        flag = request.args.get("start")
-        if flag == "0":
-            file = open(_curdir + "/downloads/" + filename, "wb")
-        else:
-            file = open(_curdir + "/downloads/" + filename, "ab")
-        file.write(request.stream.read())
-        file.close()
-        return "files uploaded!"
-    else:
-        return redirect("/login")
-
-
-</t>
-<t tx="leo.20181015140532.30">@app.route('/saveConfig', methods=['POST'])
+<t tx="leo.20181104192502.45">@app.route('/saveConfig', methods=['POST'])
 def saveConfig():
     if not isAdmin():
         return redirect("/login")
@@ -2121,15 +1773,17 @@ def saveConfig():
 
 
 </t>
-<t tx="leo.20181015140532.31">@app.route('/savePage', methods=['POST'])
+<t tx="leo.20181104192502.46">@app.route('/savePage', methods=['POST'])
 def savePage():
+    """save all pages function"""
     page_content = request.form['page_content']
     # check if administrator
     if not isAdmin():
         return redirect("/login")
     if page_content is None:
         return error_log("no content to save!")
-    # we need to check if page heading is duplicated
+    # 在插入新頁面資料前, 先複製 content.htm 一分到 content_backup.htm
+    shutil.copy2(config_dir + "content.htm", config_dir + "content_backup.htm")
     file = open(config_dir + "content.htm", "w", encoding="utf-8")
     # in Windows client operator, to avoid textarea add extra \n
     page_content = page_content.replace("\n","")
@@ -2172,7 +1826,7 @@ for i in range(len(search_result)):
 
 
 </t>
-<t tx="leo.20181015140532.32">def search_content(head, page, search):
+<t tx="leo.20181104192502.47">def search_content(head, page, search):
     """search content"""
     ''' 舊內容
     return page[head.index(search)]
@@ -2193,7 +1847,7 @@ for i in range(len(search_result)):
 
 
 </t>
-<t tx="leo.20181015140532.33">@app.route('/search_form', defaults={'edit': 1})
+<t tx="leo.20181104192502.48">@app.route('/search_form', defaults={'edit': 1})
 @app.route('/search_form/&lt;path:edit&gt;')
 def search_form(edit):
     """form of keyword search"""
@@ -2212,7 +1866,7 @@ def search_form(edit):
 
 # setup static directory
 </t>
-<t tx="leo.20181015140532.34">@app.route('/static/&lt;path:path&gt;')
+<t tx="leo.20181104192502.49">@app.route('/static/&lt;path:path&gt;')
 def send_file(path):
     """send file function"""
     return app.send_static_file(static_dir + path)
@@ -2221,7 +1875,29 @@ def send_file(path):
 # setup static directory
 #@app.route('/images/&lt;path:path&gt;')
 </t>
-<t tx="leo.20181015140532.35">@app.route('/images/&lt;path:path&gt;')
+<t tx="leo.20181104192502.5">@app.route('/doSearch', methods=['POST'])
+def doSearch():
+    """Action to search content.htm using keyword"""
+    if not isAdmin():
+        return redirect("/login")
+    else:
+        keyword = request.form['keyword']
+        head, level, page = parse_content()
+        directory = render_menu(head, level, page)
+        match = ""
+        for index in range(len(head)):
+            if (keyword != "" or None) and (keyword.lower() in page[index].lower() or \
+            keyword.lower() in head[index].lower()): \
+                match += "&lt;a href='/get_page/" + head[index] + "'&gt;" + \
+                                head[index] + "&lt;/a&gt;&lt;br /&gt;"
+        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;"+ \
+                   directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Search Result&lt;/h1&gt;keyword: " + \
+                   keyword.lower() + "&lt;br /&gt;&lt;br /&gt;in the following pages:&lt;br /&gt;&lt;br /&gt;" + \
+                   match + "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
+
+
+</t>
+<t tx="leo.20181104192502.50">@app.route('/images/&lt;path:path&gt;')
 def send_images(path):
     """send image files"""
     return send_from_directory(_curdir + "/images/", path)
@@ -2229,7 +1905,7 @@ def send_images(path):
 
 # setup static directory
 </t>
-<t tx="leo.20181015140532.36">@app.route('/static/')
+<t tx="leo.20181104192502.51">@app.route('/static/')
 def send_static():
     """send static files"""
     return app.send_static_file('index.html')
@@ -2237,12 +1913,12 @@ def send_static():
 
 # set_admin_css for administrator
 </t>
-<t tx="leo.20181015140532.37">def set_admin_css():
+<t tx="leo.20181104192502.52">def set_admin_css():
     """set css for admin"""
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;計算機程式教材&lt;/title&gt; \
+&lt;title&gt;期末分組專案&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -2289,12 +1965,12 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 
 
 </t>
-<t tx="leo.20181015140532.38">def set_css():
+<t tx="leo.20181104192502.53">def set_css():
     """set css for dynamic site"""
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;計算機程式教材&lt;/title&gt; \
+&lt;title&gt;期末分組專案&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="/static/cmsimply.css"&gt;
 ''' + syntaxhighlight()
 
@@ -2347,12 +2023,12 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 
 
 </t>
-<t tx="leo.20181015140532.39">def set_css2():
+<t tx="leo.20181104192502.54">def set_css2():
     """set css for static site"""
     outstring = '''&lt;!doctype html&gt;
 &lt;html&gt;&lt;head&gt;
 &lt;meta http-equiv="content-type" content="text/html;charset=utf-8"&gt;
-&lt;title&gt;計算機程式教材&lt;/title&gt; \
+&lt;title&gt;期末分組專案&lt;/title&gt; \
 &lt;link rel="stylesheet" type="text/css" href="./../static/cmsimply.css"&gt;
 ''' + syntaxhighlight2()
 
@@ -2390,41 +2066,7 @@ window.location= 'https://' + location.host + location.pathname + location.searc
 
 
 </t>
-<t tx="leo.20181015140532.4">@app.route('/fileuploadform', defaults={'edit':1})
-@app.route('/fileuploadform/&lt;path:edit&gt;')
-def fileuploadform(edit):
-    if isAdmin():
-        head, level, page = parse_content()
-        directory = render_menu(head, level, page)
-        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;"+ \
-                 directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;file upload&lt;/h1&gt;" + \
-                 '''&lt;script src="/static/jquery.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script src="/static/axuploader.js" type="text/javascript"&gt;&lt;/script&gt;
-&lt;script&gt;
-$(document).ready(function(){
-$('.prova').axuploader({url:'fileaxupload', allowExt:['jpg','png','gif','7z','pdf','zip','flv','stl','swf'],
-finish:function(x,files)
-    {
-        alert('All files have been uploaded: '+files);
-    },
-enable:true,
-remotePath:function(){
-return 'downloads/';
-}
-});
-});
-&lt;/script&gt;
-&lt;div class="prova"&gt;&lt;/div&gt;
-&lt;input type="button" onclick="$('.prova').axuploader('disable')" value="asd" /&gt;
-&lt;input type="button" onclick="$('.prova').axuploader('enable')" value="ok" /&gt;
-&lt;/section&gt;&lt;/body&gt;&lt;/html&gt;
-'''
-    else:
-        return redirect("/login")
-
-
-</t>
-<t tx="leo.20181015140532.40">def set_footer():
+<t tx="leo.20181104192502.55">def set_footer():
     """footer for page"""
     return "&lt;footer&gt; \
         &lt;a href='/edit_page'&gt;Edit All&lt;/a&gt;| \
@@ -2436,7 +2078,7 @@ return 'downloads/';
         &lt;/footer&gt; \
         &lt;/body&gt;&lt;/html&gt;"
 </t>
-<t tx="leo.20181015140532.41">@app.route('/sitemap', defaults={'edit': 1})
+<t tx="leo.20181104192502.56">@app.route('/sitemap', defaults={'edit': 1})
 @app.route('/sitemap/&lt;path:edit&gt;')
 def sitemap(edit):
     """sitemap for dynamic site"""
@@ -2447,7 +2089,7 @@ def sitemap(edit):
              "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Site Map&lt;/h1&gt;" + sitemap + \
              "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
 </t>
-<t tx="leo.20181015140532.42">def sitemap2(head):
+<t tx="leo.20181104192502.57">def sitemap2(head):
     """sitemap for static content generation"""
     edit = 0
     not_used_head, level, page = parse_content()
@@ -2459,7 +2101,7 @@ def sitemap(edit):
 
 
 </t>
-<t tx="leo.20181015140532.43">def sizeof_fmt(num):
+<t tx="leo.20181104192502.58">def sizeof_fmt(num):
     """size formate"""
     for x in ['bytes','KB','MB','GB']:
         if num &lt; 1024.0:
@@ -2467,7 +2109,7 @@ def sitemap(edit):
         num /= 1024.0
     return "%3.1f%s" % (num, 'TB')
 </t>
-<t tx="leo.20181015140532.44">@app.route('/ssavePage', methods=['POST'])
+<t tx="leo.20181104192502.59">@app.route('/ssavePage', methods=['POST'])
 def ssavePage():
     """seperate save page function"""
     page_content = request.form['page_content']
@@ -2480,6 +2122,8 @@ def ssavePage():
     page_content = page_content.replace("\n","")
     head, level, page = parse_content()
     original_head_title = head[int(page_order)]
+    # 在插入新頁面資料前, 先複製 content.htm 一分到 content_backup.htm
+    shutil.copy2(config_dir + "content.htm", config_dir + "content_backup.htm")
     file = open(config_dir + "content.htm", "w", encoding="utf-8")
     for index in range(len(head)):
         if index == int(page_order):
@@ -2509,7 +2153,20 @@ def ssavePage():
 
 
 </t>
-<t tx="leo.20181015140532.45">def syntaxhighlight():
+<t tx="leo.20181104192502.6">@app.route('/download/', methods=['GET'])
+def download():
+    """Download file using URL."""
+    filename = request.args.get('filename')
+    type = request.args.get('type')
+    if type == "files":
+        return send_from_directory(download_dir, filename=filename)
+    else:
+    # for image files
+        return send_from_directory(image_dir, filename=filename)
+    
+
+</t>
+<t tx="leo.20181104192502.60">def syntaxhighlight():
     return '''
 &lt;script type="text/javascript" src="/static/syntaxhighlighter/shCore.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="/static/syntaxhighlighter/shBrushJScript.js"&gt;&lt;/script&gt;
@@ -2562,7 +2219,7 @@ def ssavePage():
 
 
 </t>
-<t tx="leo.20181015140532.46">def syntaxhighlight2():
+<t tx="leo.20181104192502.61">def syntaxhighlight2():
     return '''
 &lt;script type="text/javascript" src="./../static/syntaxhighlighter/shCore.js"&gt;&lt;/script&gt;
 &lt;script type="text/javascript" src="./../static/syntaxhighlighter/shBrushJScript.js"&gt;&lt;/script&gt;
@@ -2614,7 +2271,7 @@ init_mathjax();
 
 
 </t>
-<t tx="leo.20181015140532.47">def tinymce_editor(menu_input=None, editor_content=None, page_order=None):
+<t tx="leo.20181104192502.62">def tinymce_editor(menu_input=None, editor_content=None, page_order=None):
     sitecontent =file_get_contents(config_dir + "content.htm")
     editor = set_admin_css() + editorhead() + '''&lt;/head&gt;''' + editorfoot()
     # edit all pages
@@ -2639,7 +2296,7 @@ init_mathjax();
 
 
 </t>
-<t tx="leo.20181015140532.48">def unique(items):
+<t tx="leo.20181104192502.63">def unique(items):
     """make items element unique"""
     found = set([])
     keep = []
@@ -2656,243 +2313,178 @@ init_mathjax();
 
 
 </t>
-<t tx="leo.20181015140532.5">@app.route('/flvplayer')
-# 需要檢視能否取得 filepath 變數
-def flvplayer(filepath=None):
-    outstring = '''
-&lt;object type="application/x-shockwave-flash" data="/static/player_flv_multi.swf" width="320" height="240"&gt;
-     &lt;param name="movie" value="player_flv_multi.swf" /&gt;
-     &lt;param name="allowFullScreen" value="true" /&gt;
-     &lt;param name="FlashVars" value="flv=''' + filepath + '''&amp;amp;width=320&amp;amp;height=240&amp;amp;showstop=1&amp;amp;showvolume=1&amp;amp;showtime=1
-     &amp;amp;startimage=/static/startimage_en.jpg&amp;amp;showfullscreen=1&amp;amp;bgcolor1=189ca8&amp;amp;bgcolor2=085c68
-     &amp;amp;playercolor=085c68" /&gt;
-&lt;/object&gt;
-'''
+<t tx="leo.20181104192502.7">@app.route('/download_list', methods=['GET'])
+def download_list():
+    """List files in downloads directory."""
+    if not isAdmin():
+        return redirect("/login")
+    else:
+        if not request.args.get('edit'):
+            edit= 1
+        else:
+            edit = request.args.get('edit')
+        if not request.args.get('page'):
+            page = 1
+        else:
+            page = request.args.get('page')
+        if not request.args.get('item_per_page'):
+            item_per_page = 10
+        else:
+            item_per_page = request.args.get('item_per_page')
+        if not request.args.get('keyword'):
+            keyword = ""
+        else:
+            keyword = request.args.get('keyword')
+            session['download_keyword'] = keyword
+    files = os.listdir(download_dir)
+    if keyword is not "":
+        files = [elem for elem in files if str(keyword) in elem]
+    files.sort()
+    total_rows = len(files)
+    totalpage = math.ceil(total_rows/int(item_per_page))
+    starti = int(item_per_page) * (int(page) - 1) + 1
+    endi = starti + int(item_per_page) - 1
+    outstring = "&lt;form method='post' action='delete_file'&gt;"
+    notlast = False
+    if total_rows &gt; 0:
+        outstring += "&lt;br /&gt;"
+        if (int(page) * int(item_per_page)) &lt; total_rows:
+            notlast = True
+        if int(page) &gt; 1:
+            outstring += "&lt;a href='"
+            outstring += "download_list?&amp;amp;page=1&amp;amp;item_per_page=" + str(item_per_page) + \
+                                "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;&lt;&lt;&lt;/a&gt; "
+            page_num = int(page) - 1
+            outstring += "&lt;a href='"
+            outstring += "download_list?&amp;amp;page=" + str(page_num) + "&amp;amp;item_per_page=" + \
+                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;Previous&lt;/a&gt; "
+
+        span = 10
+
+        for index in range(int(page)-span, int(page)+span):
+            if index&gt;= 0 and index&lt; totalpage:
+                page_now = index + 1 
+                if page_now == int(page):
+                    outstring += "&lt;font size='+1' color='red'&gt;" + str(page) + " &lt;/font&gt;"
+                else:
+                    outstring += "&lt;a href='"
+                    outstring += "download_list?&amp;amp;page=" + str(page_now) + "&amp;amp;item_per_page=" + \
+                                        str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+                    outstring += "'&gt;"+str(page_now) + "&lt;/a&gt; "
+
+        if notlast == True:
+            nextpage = int(page) + 1
+            outstring += " &lt;a href='"
+            outstring += "download_list?&amp;amp;page=" + str(nextpage) + "&amp;amp;item_per_page=" + \
+                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;Next&lt;/a&gt;"
+            outstring += " &lt;a href='"
+            outstring += "download_list?&amp;amp;page=" + str(totalpage) + "&amp;amp;item_per_page=" + \
+                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;&gt;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;"
+
+        if (int(page) * int(item_per_page)) &lt; total_rows:
+            notlast = True
+            outstring += downloadlist_access_list(files, starti, endi) + "&lt;br /&gt;"
+        else:
+            outstring += "&lt;br /&gt;&lt;br /&gt;"
+            outstring += downloadlist_access_list(files, starti, total_rows) + "&lt;br /&gt;"
+
+        if int(page) &gt; 1:
+            outstring += "&lt;a href='"
+            outstring += "download_list?&amp;amp;page=1&amp;amp;item_per_page=" + str(item_per_page) + \
+                                "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;&lt;&lt;&lt;/a&gt; "
+            page_num = int(page) - 1
+            outstring += "&lt;a href='"
+            outstring += "download_list?&amp;amp;page=" + str(page_num) + "&amp;amp;item_per_page=" + \
+                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;Previous&lt;/a&gt; "
+
+        span = 10
+
+        for index in range(int(page)-span, int(page)+span):
+        #for ($j=$page-$range;$j&lt;$page+$range;$j++)
+            if index &gt;=0 and index &lt; totalpage:
+                page_now = index + 1
+                if page_now == int(page):
+                    outstring += "&lt;font size='+1' color='red'&gt;" + str(page)+" &lt;/font&gt;"
+                else:
+                    outstring += "&lt;a href='"
+                    outstring += "download_list?&amp;amp;page=" + str(page_now) + \
+                                        "&amp;amp;item_per_page=" + str(item_per_page) + \
+                                        "&amp;amp;keyword=" + str(session.get('download_keyword'))
+                    outstring += "'&gt;" + str(page_now)+"&lt;/a&gt; "
+
+        if notlast == True:
+            nextpage = int(page) + 1
+            outstring += " &lt;a href='"
+            outstring += "download_list?&amp;amp;page=" + str(nextpage) + "&amp;amp;item_per_page=" + \
+                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;Next&lt;/a&gt;"
+            outstring += " &lt;a href='"
+            outstring += "download_list?&amp;amp;page=" + str(totalpage) + "&amp;amp;item_per_page=" + \
+                                str(item_per_page) + "&amp;amp;keyword=" + str(session.get('download_keyword'))
+            outstring += "'&gt;&gt;&gt;&lt;/a&gt;"
+    else:
+        outstring += "no data!"
+    outstring += "&lt;br /&gt;&lt;br /&gt;&lt;input type='submit' value='delete'&gt;&lt;input type='reset' value='reset'&gt;&lt;/form&gt;"
+
+    head, level, page = parse_content()
+    directory = render_menu(head, level, page)
+
+    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
+               directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
+
+
+</t>
+<t tx="leo.20181104192502.8">def downloadlist_access_list(files, starti, endi):
+    """List files function for download_list."""
+    # different extension files, associated links were provided
+    # popup window to view images, video or STL files, other files can be downloaded directly
+    # files are all the data to list, from starti to endi
+    # add file size
+    outstring = ""
+    for index in range(int(starti)-1, int(endi)):
+        fileName, fileExtension = os.path.splitext(files[index])
+        fileExtension = fileExtension.lower()
+        fileSize = sizeof_fmt(os.path.getsize(download_dir+"/"+files[index]))
+        # images files
+        if fileExtension == ".png" or fileExtension == ".jpg" or fileExtension == ".gif":
+            outstring += '&lt;input type="checkbox" name="filename" value="' + \
+                              files[index] + '"&gt;&lt;a href="javascript:;" onClick="window.open(\'/images/'+ \
+                              files[index] + '\',\'images\', \'catalogmode\',\'scrollbars\')"&gt;' + \
+                              files[index] + '&lt;/a&gt; (' + str(fileSize) + ')&lt;br /&gt;'
+        # stl files
+        elif fileExtension == ".stl":
+            outstring += '&lt;input type="checkbox" name="filename" value="' + \
+                              files[index] + '"&gt;&lt;a href="javascript:;" onClick="window.open(\'/static/viewstl.html?src=/downloads/' + \
+                              files[index] + '\',\'images\', \'catalogmode\',\'scrollbars\')"&gt;' + \
+                              files[index] + '&lt;/a&gt; (' + str(fileSize) + ')&lt;br /&gt;'
+        # flv files
+        elif fileExtension == ".flv":
+            outstring += '&lt;input type="checkbox" name="filename" value="' + \
+                              files[index] + '"&gt;&lt;a href="javascript:;" onClick="window.open(\'/flvplayer?filepath=/downloads/' + \
+            files[index] + '\',\'images\', \'catalogmode\',\'scrollbars\')"&gt;' + files[index] + '&lt;/a&gt; (' + str(fileSize) + ')&lt;br /&gt;'
+        # direct download files
+        else:
+            outstring += "&lt;input type='checkbox' name='filename' value='" + files[index] + \
+                              "'&gt;&lt;a href='/downloads/" + files[index] + "'&gt;" + files[index] + \
+                              "&lt;/a&gt; (" + str(fileSize) + ")&lt;br /&gt;"
     return outstring
 
 
+# downloads 方法主要將位於 downloads 目錄下的檔案送回瀏覽器
 </t>
-<t tx="leo.20181015140532.6">@app.route('/generate_pages')
-def generate_pages():
-    # 必須決定如何處理重複標題頁面的轉檔
-    import os
-    # 確定程式檔案所在目錄, 在 Windows 有最後的反斜線
-    _curdir = os.path.join(os.getcwd(), os.path.dirname(__file__))
-    # 根據 content.htm 內容, 逐一產生各頁面檔案
-    # 在此也要同時配合 render_menu2, 產生對應的 anchor 連結
-    head, level, page = parse_content()
-    # 處理重複標題 head 數列， 再重複標題按照次序加上 1, 2, 3...
-    newhead = []
-    for i, v in enumerate(head):
-        # 各重複標題總數
-        totalcount = head.count(v)
-        # 目前重複標題出現總數
-        count = head[:i].count(v)
-        # 針對重複標題者, 附加目前重複標題出現數 +1, 未重複採原標題
-        newhead.append(v + str(count + 1) if totalcount &gt; 1 else v)
-    # 刪除 content 目錄中所有 html 檔案
-    filelist = [ f for f in os.listdir(_curdir + "\\content\\") if f.endswith(".html") ]
-    for f in filelist:
-        os.remove(os.path.join(_curdir + "\\content\\", f))
-    # 這裡需要建立專門寫出 html 的 write_page
-    # index.html
-    file = open(_curdir + "\\content\\index.html", "w", encoding="utf-8")
-    file.write(get_page2(None, newhead, 0))
-    file.close()
-    # sitemap
-    file = open(_curdir + "\\content\\sitemap.html", "w", encoding="utf-8")
-    # sitemap2 需要 newhead
-    file.write(sitemap2(newhead))
-    file.close()
-    # 以下轉檔, 改用 newhead 數列
-    for i in range(len(newhead)):
-        # 在此必須要將頁面中的 /images/ 字串換為 images/, /downloads/ 換為 downloads/
-        # 因為 Flask 中靠 /images/ 取檔案, 但是一般 html 則採相對目錄取檔案
-        # 此一字串置換在 get_page2 中進行
-        file = open(_curdir + "\\content\\" + newhead[i] + ".html", "w", encoding="utf-8")
-        # 增加以 newhead 作為輸入
-        file.write(get_page2(newhead[i], newhead, 0))
-        file.close()
-    # generate each page html under content directory
-    return "已經將網站轉為靜態網頁. &lt;a href='/'&gt;Home&lt;/a&gt;"
-# seperate page need heading and edit variables, if edit=1, system will enter edit mode
-# single page edit will use ssavePage to save content, it means seperate save page
-</t>
-<t tx="leo.20181015140532.7">@app.route('/get_page')
-@app.route('/get_page/&lt;heading&gt;', defaults={'edit': 0})
-@app.route('/get_page/&lt;heading&gt;/&lt;int:edit&gt;')
-def get_page(heading, edit):
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-    if heading is None:
-        heading = head[0]
-    # 因為同一 heading 可能有多頁, 因此不可使用 head.index(heading) 搜尋 page_order
-    page_order_list, page_content_list = search_content(head, page, heading)
-    return_content = ""
-    pagedata = ""
-    outstring = ""
-    outstring_duplicate = ""
-    pagedata_duplicate = ""
-    outstring_list = []
-    for i in range(len(page_order_list)):
-        #page_order = head.index(heading)
-        page_order = page_order_list[i]
-        if page_order == 0:
-            last_page = ""
-        else:
-            last_page = head[page_order-1] + " &lt;&lt; &lt;a href='/get_page/" + \
-                             head[page_order-1] + "'&gt;Previous&lt;/a&gt;"
-        if page_order == len(head) - 1:
-            # no next page
-            next_page = ""
-        else:
-            next_page = "&lt;a href='/get_page/"+ head[page_order+1] + \
-                              "'&gt;Next&lt;/a&gt; &gt;&gt; " + head[page_order+1]
-        if len(page_order_list) &gt; 1:
-            return_content += last_page + " " + next_page + \
-                                      "&lt;br /&gt;&lt;h1&gt;" + heading + "&lt;/h1&gt;" + \
-                                      page_content_list[i] + "&lt;br /&gt;"+ \
-                                      last_page + " " + next_page + "&lt;br /&gt;&lt;hr&gt;"
-            pagedata_duplicate = "&lt;h"+level[page_order] + "&gt;" + heading + \
-                                          "&lt;/h"+level[page_order] + "&gt;" + page_content_list[i]
-            outstring_list.append(last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata_duplicate), page_order))
-        else:
-            return_content += last_page + " " + next_page + "&lt;br /&gt;&lt;h1&gt;" +\
-                                      heading + "&lt;/h1&gt;" + page_content_list[i] + "&lt;br /&gt;" + last_page + " " + next_page
-            
-        pagedata += "&lt;h"+level[page_order] + "&gt;" + heading + "&lt;/h" + level[page_order] + "&gt;" + page_content_list[i]
-        # 利用 cgi.escape() 將 specialchar 轉成只能顯示的格式
-        outstring += last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata), page_order)
-    
-    # edit=0 for viewpage
-    if edit == 0:
-        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-                 directory + "&lt;/nav&gt;&lt;section&gt;" + return_content + "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
-    # enter edit mode
-    else:
-        # check if administrator
-        if not isAdmin():
-            redirect(url_for('login'))
-        else:
-            if len(page_order_list) &gt; 1:
-                # 若碰到重複頁面頁印, 且要求編輯, 則導向 edit_page
-                #return redirect("/edit_page")
-                for i in range(len(page_order_list)):
-                    outstring_duplicate += outstring_list[i] + "&lt;br /&gt;&lt;hr&gt;"
-                return outstring_duplicate
-            else:
-            #pagedata = "&lt;h"+level[page_order]+"&gt;"+heading+"&lt;/h"+level[page_order]+"&gt;"+search_content(head, page, heading)
-            #outstring = last_page+" "+next_page+"&lt;br /&gt;"+ tinymce_editor(directory, cgi.escape(pagedata), page_order)
-                return outstring
+<t tx="leo.20181104192502.9">@app.route('/downloads/&lt;path:path&gt;')
+def downloads(path):
+    """Send files in downloads directory."""
+    return send_from_directory(_curdir+"/downloads/", path)
 
 
-# seperate page need heading and edit variables, if edit=1, system will enter edit mode
-# single page edit will use ssavePage to save content, it means seperate save page
-'''
-@app.route('/get_page2')
-@app.route('/get_page2/&lt;heading&gt;', defaults={'edit': 0})
-@app.route('/get_page2/&lt;heading&gt;/&lt;int:edit&gt;')
-'''
-</t>
-<t tx="leo.20181015140532.8">def get_page2(heading, head, edit):
-    not_used_head, level, page = parse_content()
-    # 直接在此將 /images/ 換為 ./../images/, /downloads/ 換為 ./../downloads/, 以 content 為基準的相對目錄設定
-    page = [w.replace('/images/', './../images/') for w in page]
-    page = [w.replace('/downloads/', './../downloads/') for w in page]
-    directory = render_menu2(head, level, page)
-    if heading is None:
-        heading = head[0]
-    # 因為同一 heading 可能有多頁, 因此不可使用 head.index(heading) 搜尋 page_order
-    page_order_list, page_content_list = search_content(head, page, heading)
-    return_content = ""
-    pagedata = ""
-    outstring = ""
-    outstring_duplicate = ""
-    pagedata_duplicate = ""
-    outstring_list = []
-    for i in range(len(page_order_list)):
-        #page_order = head.index(heading)
-        page_order = page_order_list[i]
-        if page_order == 0:
-            last_page = ""
-        else:
-            #last_page = head[page_order-1]+ " &lt;&lt; &lt;a href='/get_page/" + head[page_order-1] + "'&gt;Previous&lt;/a&gt;"
-            last_page = head[page_order-1] + " &lt;&lt; &lt;a href='"+head[page_order-1] + ".html'&gt;Previous&lt;/a&gt;"
-        if page_order == len(head) - 1:
-            # no next page
-            next_page = ""
-        else:
-            #next_page = "&lt;a href='/get_page/"+head[page_order+1] + "'&gt;Next&lt;/a&gt; &gt;&gt; " + head[page_order+1]
-            next_page = "&lt;a href='" + head[page_order+1] + ".html'&gt;Next&lt;/a&gt; &gt;&gt; " + head[page_order+1]
-        if len(page_order_list) &gt; 1:
-            return_content += last_page + " " + next_page + "&lt;br /&gt;&lt;h1&gt;" + \
-                                      heading + "&lt;/h1&gt;" + page_content_list[i] + \
-                                      "&lt;br /&gt;" + last_page + " "+ next_page + "&lt;br /&gt;&lt;hr&gt;"
-            pagedata_duplicate = "&lt;h"+level[page_order] + "&gt;" + heading + "&lt;/h" + level[page_order]+"&gt;"+page_content_list[i]
-            outstring_list.append(last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata_duplicate), page_order))
-        else:
-            return_content += last_page + " " + next_page + "&lt;br /&gt;&lt;h1&gt;" + \
-                                      heading + "&lt;/h1&gt;" + page_content_list[i] + \
-                                      "&lt;br /&gt;" + last_page + " " + next_page
-            
-        pagedata += "&lt;h" + level[page_order] + "&gt;" + heading + \
-                          "&lt;/h" + level[page_order] + "&gt;" + page_content_list[i]
-        # 利用 cgi.escape() 將 specialchar 轉成只能顯示的格式
-        outstring += last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata), page_order)
-    
-    # edit=0 for viewpage
-    if edit == 0:
-        return set_css2() + "&lt;div class='container'&gt;&lt;nav&gt;"+ \
-        directory + "&lt;/nav&gt;&lt;section&gt;" + return_content + "&lt;/section&gt;&lt;/div&gt;&lt;/body&gt;&lt;/html&gt;"
-    # enter edit mode
-    else:
-        # check if administrator
-        if not isAdmin():
-            redirect(url_for('login'))
-        else:
-            if len(page_order_list) &gt; 1:
-                # 若碰到重複頁面頁印, 且要求編輯, 則導向 edit_page
-                #return redirect("/edit_page")
-                for i in range(len(page_order_list)):
-                    outstring_duplicate += outstring_list[i] + "&lt;br /&gt;&lt;hr&gt;"
-                return outstring_duplicate
-            else:
-            #pagedata = "&lt;h" + level[page_order]+"&gt;" + heading + "&lt;/h" + level[page_order] + "&gt;" + search_content(head, page, heading)
-            #outstring = last_page + " " + next_page + "&lt;br /&gt;" + tinymce_editor(directory, cgi.escape(pagedata), page_order)
-                return outstring
-
-
-</t>
-<t tx="leo.20181015140532.9">@app.route('/image_delete_file', methods=['POST'])
-def image_delete_file():
-    if not isAdmin():
-        return redirect("/login")
-    filename = request.form['filename']
-    head, level, page = parse_content()
-    directory = render_menu(head, level, page)
-    if filename is None:
-        outstring = "no file selected!"
-        return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-                 directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Delete Error&lt;/h1&gt;" + \
-                 outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
-    outstring = "delete all these files?&lt;br /&gt;&lt;br /&gt;"
-    outstring += "&lt;form method='post' action='image_doDelete'&gt;"
-    # only one file is selected
-    if isinstance(filename, str):
-        outstring += filename + "&lt;input type='hidden' name='filename' value='" + \
-                          filename + "'&gt;&lt;br /&gt;"
-    else:
-        # multiple files selected
-        for index in range(len(filename)):
-            outstring += filename[index] + "&lt;input type='hidden' name='filename' value='" + \
-                              filename[index] + "'&gt;&lt;br /&gt;"
-    outstring += "&lt;br /&gt;&lt;input type='submit' value='delete'&gt;&lt;/form&gt;"
-
-    return set_css() + "&lt;div class='container'&gt;&lt;nav&gt;" + \
-             directory + "&lt;/nav&gt;&lt;section&gt;&lt;h1&gt;Download List&lt;/h1&gt;" + \
-             outstring + "&lt;br/&gt;&lt;br /&gt;&lt;/body&gt;&lt;/html&gt;"
-
-
+# 與 file_selector 搭配的取檔程式
 </t>
 </tnodes>
 </leo_file>
